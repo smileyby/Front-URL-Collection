@@ -71,6 +71,12 @@ http://www.zhangxinxu.com/wordpress/2017/09/css-shapes-outside-iphone-x-head/ CS
 
 What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
 
+为什么你应该在相等比较中使用 Object.is() http://www.jstips.co/zh_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/
+
+三个使用的javascript小技巧 http://www.jstips.co/zh_cn/javascript/three-useful-hacks/
+
+10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例 https://juejin.im/entry/59e40cc06fb9a044fb06cc5c
+
 ### 关于Node.js
 
 这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程（最近发现掌握一门后端语言还是很有必要的）

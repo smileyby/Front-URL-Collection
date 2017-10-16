@@ -77,6 +77,8 @@ What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
 
 10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例 https://juejin.im/entry/59e40cc06fb9a044fb06cc5c
 
+大公司里怎样开发和部署前端代码？ https://www.zhihu.com/question/20790576
+
 ### 关于Node.js
 
 这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程（最近发现掌握一门后端语言还是很有必要的）

@@ -79,6 +79,10 @@ What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
 
 大公司里怎样开发和部署前端代码？ https://www.zhihu.com/question/20790576
 
+反击爬虫，前端工程师的脑洞可以有多大？还有这种操作 http://litten.me/2017/07/09/prevent-spiders/
+
+图像效果与css http://bennettfeely.com/image-effects/
+
 ### 关于Node.js
 
 这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程（最近发现掌握一门后端语言还是很有必要的）

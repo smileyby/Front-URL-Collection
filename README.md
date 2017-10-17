@@ -1,6 +1,15 @@
 前端网址收集
 ==========
 
+### 关于移动端页面适配
+
+lib-flexible 自适应解决方案 https://github.com/amfe/lib-flexible/tree/master
+
+lib-flexible 使用教程 http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html
+
+再聊移动端页面的适配（2017-08-02） https://www.w3cplus.com/css/vw-for-layout.html
+
+
 ### 有趣网址收集
 
 http://k.swao.cn/js/web/game/t_01/level_01/step1.html

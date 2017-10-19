@@ -36,6 +36,8 @@ https://www.zhihu.com/question/19561454 来自知乎的前端工具汇总
 
 http://jingyan.baidu.com/article/c85b7a645454ae003aac9577.html gif图解帧成图片
 
+http://jshint.com/ jshint是一个javaScript语法和风格的检查工具，但检查不出逻辑问题
+
 ### 前端资源收集
 
 https://zhuanlan.zhihu.com/p/23344447  前端开发资源收集--知乎

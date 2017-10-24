@@ -102,6 +102,8 @@ What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
 
 ### 关于Node.js
 
+http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新
+
 这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程（最近发现掌握一门后端语言还是很有必要的）
 
 http://www.imooc.com/article/17554 

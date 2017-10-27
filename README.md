@@ -100,6 +100,10 @@ What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
 
 前端工具里面gulp和fis，有哪些优缺点？ https://www.zhihu.com/question/26712510
 
+Javascript继承机制的设计思想  http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html
+
+【翻译】JavaScript原型继承工作原理  http://www.ituring.com.cn/article/56184
+
 ### 关于Node.js
 
 http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新

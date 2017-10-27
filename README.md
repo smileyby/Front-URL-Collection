@@ -84,25 +84,27 @@ http://www.zhangxinxu.com/wordpress/2017/09/css-shapes-outside-iphone-x-head/ CS
 
 #### 2017-10
 
-What the f*ck JavaScript? https://github.com/denysdovhan/wtfjs#-motivation
+https://github.com/denysdovhan/wtfjs#-motivation  What the f*ck JavaScript? 
 
-为什么你应该在相等比较中使用 Object.is() http://www.jstips.co/zh_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/
+http://www.jstips.co/zh_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/  为什么你应该在相等比较中使用 Object.is() 
 
-三个使用的javascript小技巧 http://www.jstips.co/zh_cn/javascript/three-useful-hacks/
+http://www.jstips.co/zh_cn/javascript/three-useful-hacks/  三个使用的javascript小技巧 
 
-10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例 https://juejin.im/entry/59e40cc06fb9a044fb06cc5c
+https://juejin.im/entry/59e40cc06fb9a044fb06cc5c  10 个 CSS、SVG 和 Canvas 蒙版（mask）精彩实例 
 
-大公司里怎样开发和部署前端代码？ https://www.zhihu.com/question/20790576
+https://www.zhihu.com/question/20790576  大公司里怎样开发和部署前端代码？ 
 
-反击爬虫，前端工程师的脑洞可以有多大？还有这种操作 http://litten.me/2017/07/09/prevent-spiders/
+http://litten.me/2017/07/09/prevent-spiders/  反击爬虫，前端工程师的脑洞可以有多大？还有这种操作
 
-图像效果与css http://bennettfeely.com/image-effects/
+http://bennettfeely.com/image-effects/  图像效果与css 
 
-前端工具里面gulp和fis，有哪些优缺点？ https://www.zhihu.com/question/26712510
+https://www.zhihu.com/question/26712510  前端工具里面gulp和fis，有哪些优缺点？ 
 
-Javascript继承机制的设计思想  http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html
+http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html  Javascript继承机制的设计思想  
 
-【翻译】JavaScript原型继承工作原理  http://www.ituring.com.cn/article/56184
+http://www.ituring.com.cn/article/56184  【翻译】JavaScript原型继承工作原理  
+
+https://juejin.im/post/59eff1fb6fb9a044ff30a942  JavaScript专题系列20篇正式完结！
 
 ### 关于Node.js
 

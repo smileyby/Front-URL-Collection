@@ -106,6 +106,8 @@ http://www.ituring.com.cn/article/56184  【翻译】JavaScript原型继承工�
 
 https://juejin.im/post/59eff1fb6fb9a044ff30a942  JavaScript专题系列20篇正式完结！
 
+https://segmentfault.com/a/1190000008168184  2016 我的心路历程：从 Vue 到 Webpack 到 iView
+
 ### 关于Node.js
 
 http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新

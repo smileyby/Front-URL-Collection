@@ -114,6 +114,8 @@ https://segmentfault.com/a/1190000008168184  2016 我的心路历程：从 Vue �
 
 https://raygun.com/javascript-debugging-tips  你不知道的14个jsvascript调试技巧
 
+https://juejin.im/entry/59ffb92bf265da43040600f9  10 个独特的 CSS 背景视觉效果
+
 ### 关于Node.js
 
 http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新

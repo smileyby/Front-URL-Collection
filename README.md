@@ -116,6 +116,10 @@ https://raygun.com/javascript-debugging-tips  你不知道的14个jsvascript调
 
 https://juejin.im/entry/59ffb92bf265da43040600f9  10 个独特的 CSS 背景视觉效果
 
+https://juejin.im/entry/59feae9df265da43094488f6  跨域，你需要知道的全在这里
+
+https://juejin.im/post/59f678d7f265da43333dabb7  移动端字体放大问题的研究
+
 ### 关于Node.js
 
 http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新

@@ -56,7 +56,13 @@ https://github.com/Martz90/vivify Vivify是免费的CSS动画库
 
 https://devdocs.io/ 各类API文档集合
 
+http://overapi.com/javascript 前后端语言API合集
+
 https://devhints.io/ a modest collection of cheatsheets by @rstacruz
+
+https://vuejs-tips.github.io/cheatsheet/  vuejs API文档
+
+https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
 
 ### 前端每月好文（个人收集仅供参考）
 
@@ -121,6 +127,12 @@ https://juejin.im/entry/59ffb92bf265da43040600f9  10 个独特的 CSS 背景视�
 https://juejin.im/entry/59feae9df265da43094488f6  跨域，你需要知道的全在这里
 
 https://juejin.im/post/59f678d7f265da43333dabb7  移动端字体放大问题的研究
+
+https://juejin.im/post/5a044fd5f265da43333ddabd  手机/移动前端开发需要注意的20个要点
+
+http://louiszhai.github.io/2016/03/12/css-center/  16种方法实现水平居中垂直居中
+
+https://segmentfault.com/a/1190000011927868  Git分支管理
 
 ### 关于Node.js
 

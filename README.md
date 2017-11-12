@@ -145,3 +145,5 @@ http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更
 http://www.imooc.com/article/17554 
 
 http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
+
+https://zhuanlan.zhihu.com/p/26107559  Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）

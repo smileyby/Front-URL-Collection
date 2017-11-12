@@ -138,12 +138,10 @@ https://segmentfault.com/a/1190000011927868  Git分支管理
 
 ### 关于Node.js
 
+*这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*
+
 http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新
 
-这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程（最近发现掌握一门后端语言还是很有必要的）
-
-http://www.imooc.com/article/17554 
+http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
 
 http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
-
-https://zhuanlan.zhihu.com/p/26107559  Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）

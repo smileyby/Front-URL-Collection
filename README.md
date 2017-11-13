@@ -66,6 +66,8 @@ https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
 
 http://git.oschina.net/progit/ Pro Git（中文版）
 
+http://svgtrick.com/  svgtrick.com 是一个汇集了 svg 使用、svg 入门教程、svg 动画编写、使用经验与svg技巧和窍门的网站。
+
 ### 前端每月好文（个人收集仅供参考）
 
 #### 2017-08
@@ -136,6 +138,14 @@ http://louiszhai.github.io/2016/03/12/css-center/  16种方法实现水平居中
 
 https://segmentfault.com/a/1190000011927868  Git分支管理
 
+https://juejin.im/post/5a091afe6fb9a044ff30f402  打造自己的JavaScript武器库
+
+https://webdesign.tutsplus.com/tutorials/how-to-create-a-split-screen-slider-with-javascript--cms-28844 使用 JavaScript 实现分屏视觉效果
+
+http://www.jianshu.com/p/4876a4fe7731  懒加载和预加载
+
+http://jartto.wang/2017/11/12/f2e-tips/  CSS 实用 Tips
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*
@@ -145,5 +155,3 @@ http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更
 http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
 
 http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
-
-// test

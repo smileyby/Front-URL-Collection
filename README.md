@@ -146,6 +146,12 @@ http://www.jianshu.com/p/4876a4fe7731  懒加载和预加载
 
 http://jartto.wang/2017/11/12/f2e-tips/  CSS 实用 Tips
 
+http://www.zhangxinxu.com/wordpress/2017/11/css-css3-mask-masks/  客栈说书：CSS遮罩CSS3 mask/masks详细介绍
+
+http://www.jianshu.com/p/6e9e4156ece3  一篇文章带你详解 HTTP 协议（网络协议篇一）
+
+https://juejin.im/post/5a069b6d51882509e5432656  一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

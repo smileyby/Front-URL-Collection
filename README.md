@@ -28,6 +28,8 @@ https://tympanus.net/Tutorials/CircularNavigation/  炫酷圆形导航
 
 ### 实用工具收集
 
+https://ppt.baomitu.com/  声享在线PPT制作
+
 http://www.ilovepdf.com/zh_cn   pdf文件转换
 
 http://www.json.cn/  JSON 格式化
@@ -67,6 +69,8 @@ https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
 http://git.oschina.net/progit/ Pro Git（中文版）
 
 http://svgtrick.com/  svgtrick.com 是一个汇集了 svg 使用、svg 入门教程、svg 动画编写、使用经验与svg技巧和窍门的网站。
+
+https://github.com/mqyqingfeng/Blog  JavaScript深入系列、JavaScript专题系列 博客
 
 ### 前端每月好文（个人收集仅供参考）
 
@@ -151,6 +155,12 @@ http://www.zhangxinxu.com/wordpress/2017/11/css-css3-mask-masks/  客栈说书�
 http://www.jianshu.com/p/6e9e4156ece3  一篇文章带你详解 HTTP 协议（网络协议篇一）
 
 https://juejin.im/post/5a069b6d51882509e5432656  一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）
+
+http://www.pmcaff.com/article/index/764896867122304?from=related&pmc_param  『多级目录结构』在移动端的交互设计
+
+https://github.com/mqyqingfeng/Blog/issues/4  JavaScript深入之执行上下文栈
+
+https://zhuanlan.zhihu.com/p/31030352  从一个 JSON.parse 错误深入研究 JavaScript 的转义字符
 
 ### 关于Node.js
 

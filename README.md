@@ -26,6 +26,8 @@ https://sylvainpolletvillard.github.io/grid-kiss-playground/index.html#basic-lay
 
 https://tympanus.net/Tutorials/CircularNavigation/  炫酷圆形导航
 
+http://www.turnjs.com/  特别好玩的翻书效果
+
 ### 实用工具收集
 
 https://ppt.baomitu.com/  声享在线PPT制作

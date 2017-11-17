@@ -164,6 +164,8 @@ https://github.com/mqyqingfeng/Blog/issues/4  JavaScript深入之执行上下文
 
 https://zhuanlan.zhihu.com/p/31030352  从一个 JSON.parse 错误深入研究 JavaScript 的转义字符
 
+https://zhuanlan.zhihu.com/p/30558018  从Chrome源码看浏览器如何加载资源
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

@@ -1,6 +1,10 @@
 前端网址收集
 ==========
 
+### 程序员的思考
+
+https://coolshell.cn/articles/17583.html  技术人员的发展之路
+
 ### 关于移动端页面适配
 
 lib-flexible 自适应解决方案 https://github.com/amfe/lib-flexible/tree/master

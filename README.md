@@ -78,6 +78,8 @@ http://svgtrick.com/  svgtrick.com 是一个汇集了 svg 使用、svg 入门教
 
 https://github.com/mqyqingfeng/Blog  JavaScript深入系列、JavaScript专题系列 博客
 
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清单
+
 ### 前端每月好文（个人收集仅供参考）
 
 #### 2017-08

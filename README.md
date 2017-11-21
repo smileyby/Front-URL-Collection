@@ -172,6 +172,8 @@ https://zhuanlan.zhihu.com/p/31030352  从一个 JSON.parse 错误深入研究 J
 
 https://zhuanlan.zhihu.com/p/30558018  从Chrome源码看浏览器如何加载资源
 
+https://mp.weixin.qq.com/s?__biz=MzA5MTMyNzAzMQ==&mid=2651542868&idx=1&sn=8e6d2fd4a77265ff4d78a65050f49960  产品鹅说 | 你真的理解“小步快跑、敏捷迭代”吗？
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

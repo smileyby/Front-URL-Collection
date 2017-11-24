@@ -1,6 +1,16 @@
 前端网址收集
 ==========
 
+### 处理错误的正确姿势
+
+```
+try {
+    something
+} catch (e) {
+	window.location.href = "http://stackoverflow.com/search?q=[js]+" + e.message;
+}
+```
+
 ### 程序员的思考
 
 https://coolshell.cn/articles/17583.html  技术人员的发展之路
@@ -124,8 +134,6 @@ http://litten.me/2017/07/09/prevent-spiders/  反击爬虫，前端工程师的�
 
 http://bennettfeely.com/image-effects/  图像效果与css 
 
-https://www.zhihu.com/question/26712510  前端工具里面gulp和fis，有哪些优缺点？ 
-
 http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html  Javascript继承机制的设计思想  
 
 http://www.ituring.com.cn/article/56184  【翻译】JavaScript原型继承工作原理  
@@ -138,33 +146,15 @@ https://segmentfault.com/a/1190000008168184  2016 我的心路历程：从 Vue �
 
 https://raygun.com/javascript-debugging-tips  你不知道的14个jsvascript调试技巧
 
-https://juejin.im/entry/59ffb92bf265da43040600f9  10 个独特的 CSS 背景视觉效果
-
-https://juejin.im/entry/59feae9df265da43094488f6  跨域，你需要知道的全在这里
-
 https://juejin.im/post/59f678d7f265da43333dabb7  移动端字体放大问题的研究
 
 https://juejin.im/post/5a044fd5f265da43333ddabd  手机/移动前端开发需要注意的20个要点
 
-http://louiszhai.github.io/2016/03/12/css-center/  16种方法实现水平居中垂直居中
-
-https://segmentfault.com/a/1190000011927868  Git分支管理
-
-https://juejin.im/post/5a091afe6fb9a044ff30f402  打造自己的JavaScript武器库
-
 https://webdesign.tutsplus.com/tutorials/how-to-create-a-split-screen-slider-with-javascript--cms-28844 使用 JavaScript 实现分屏视觉效果
-
-http://www.jianshu.com/p/4876a4fe7731  懒加载和预加载
-
-http://jartto.wang/2017/11/12/f2e-tips/  CSS 实用 Tips
-
-http://www.zhangxinxu.com/wordpress/2017/11/css-css3-mask-masks/  客栈说书：CSS遮罩CSS3 mask/masks详细介绍
 
 http://www.jianshu.com/p/6e9e4156ece3  一篇文章带你详解 HTTP 协议（网络协议篇一）
 
 https://juejin.im/post/5a069b6d51882509e5432656  一篇文章带你熟悉 TCP/IP 协议（网络协议篇二）
-
-http://www.pmcaff.com/article/index/764896867122304?from=related&pmc_param  『多级目录结构』在移动端的交互设计
 
 https://github.com/mqyqingfeng/Blog/issues/4  JavaScript深入之执行上下文栈
 
@@ -172,8 +162,15 @@ https://zhuanlan.zhihu.com/p/31030352  从一个 JSON.parse 错误深入研究 J
 
 https://zhuanlan.zhihu.com/p/30558018  从Chrome源码看浏览器如何加载资源
 
-https://mp.weixin.qq.com/s?__biz=MzA5MTMyNzAzMQ==&mid=2651542868&idx=1&sn=8e6d2fd4a77265ff4d78a65050f49960  产品鹅说 | 你真的理解“小步快跑、敏捷迭代”吗？
+https://juejin.im/entry/5a167475f265da43052e4a33  这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已
 
+https://zhuanlan.zhihu.com/p/31321429  15个有趣的 JS 和 CSS 库
+
+https://juejin.im/post/5a169d08518825592c07c666  HTML5原生拖拽/拖放 Drag & Drop 详解
+
+http://www.tqtan.com/2016/03/27/drag-a-ball/  拖拽粘性小红球Canvas实现
+
+https://juejin.im/post/5a16a1fb6fb9a045284627d3  原生js的常用方法
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

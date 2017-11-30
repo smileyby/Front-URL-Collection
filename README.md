@@ -188,6 +188,8 @@ https://juejin.im/post/5a1c21c1f265da430b7af6e5  一步步打造自己的纯CSS�
 
 https://juejin.im/post/5a1d396551882546d71f157b  小程序中吸底按钮适配 iPhone X 方案
 
+https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485600&idx=1&sn=12e229c90cc08e8f14dcc1ae7f27abd6  PWA是否能带来新一轮大前端技术洗牌？
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

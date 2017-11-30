@@ -66,6 +66,10 @@ https://cases.aotu.io/index.html H5案例
 
 ### 前端资源收集
 
+https://gitbook.hellogithub.com/  兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣！
+
+https://github.com/cssmagic/blog  CSS魔法 - 博客
+
 https://zhuanlan.zhihu.com/p/23344447  前端开发资源收集--知乎
 
 http://nec.netease.com/ 更好的css样式解决方案
@@ -80,8 +84,6 @@ http://overapi.com/javascript 前后端语言API合集
 
 https://devhints.io/ a modest collection of cheatsheets by @rstacruz
 
-https://vuejs-tips.github.io/cheatsheet/  vuejs API文档
-
 https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
 
 http://git.oschina.net/progit/ Pro Git（中文版）
@@ -91,6 +93,8 @@ http://svgtrick.com/  svgtrick.com 是一个汇集了 svg 使用、svg 入门教
 https://github.com/mqyqingfeng/Blog  JavaScript深入系列、JavaScript专题系列 博客
 
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清单
+
+https://juejin.im/user/59659aff5188250cf956e6dd  蚂蚁金服ProtoTeam
 
 ### 前端每月好文（个人收集仅供参考）
 
@@ -177,6 +181,12 @@ https://juejin.im/post/5a15a2c15188255851325b36  前端如何处理emoji表情
 https://juejin.im/post/5a0c170c6fb9a0451c39eff2  让我印象深刻的 JavaScript 面试题
 
 https://juejin.im/post/5a193b4bf265da43052e528a  前端本地文件操作与上传
+
+https://juejin.im/entry/5a1e8e83f265da432f30e1b9 JavaScript优化模式
+
+https://juejin.im/post/5a1c21c1f265da430b7af6e5  一步步打造自己的纯CSS单标签图标库
+
+https://juejin.im/post/5a1d396551882546d71f157b  小程序中吸底按钮适配 iPhone X 方案
 
 ### 关于Node.js
 

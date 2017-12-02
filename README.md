@@ -190,6 +190,12 @@ https://juejin.im/post/5a1d396551882546d71f157b  小程序中吸底按钮适配 
 
 https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485600&idx=1&sn=12e229c90cc08e8f14dcc1ae7f27abd6  PWA是否能带来新一轮大前端技术洗牌？
 
+### 2017-12
+
+http://www.shuaihua.cc/article/1512097982742/ javascript中this指向的规则 
+
+https://juejin.im/post/5a20b1f1f265da432529179c  再也不学AJAX了！（二）使用AJAX
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

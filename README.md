@@ -96,6 +96,8 @@ http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清
 
 https://juejin.im/user/59659aff5188250cf956e6dd  蚂蚁金服ProtoTeam
 
+http://elevenbeans.me/  好玩的简历模板
+
 ### 前端每月好文（个人收集仅供参考）
 
 #### 2017-08
@@ -197,6 +199,10 @@ http://www.shuaihua.cc/article/1512097982742/ javascript中this指向的规则
 https://juejin.im/post/5a20b1f1f265da432529179c  再也不学AJAX了！（二）使用AJAX
 
 https://juejin.im/post/5a22af716fb9a045132a825c  如果有人问你爬虫抓取技术的门道，请叫他来看这篇文章
+
+https://juejin.im/post/5a0c184c51882531926e4294  个人总结（css3新特性）
+
+https://juejin.im/post/5a24a879f265da431a430467  再也不学AJAX了！（三）跨域获取资源 ① - 同源策略
 
 ### 关于Node.js
 

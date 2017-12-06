@@ -44,25 +44,19 @@ http://www.turnjs.com/  特别好玩的翻书效果
 
 ### 实用工具收集
 
-https://ppt.baomitu.com/  声享在线PPT制作
-
 http://www.ilovepdf.com/zh_cn   pdf文件转换
 
 http://www.json.cn/  JSON 格式化
 
 https://www.17ce.com/  测试网址在各个地区的响应情况
 
-http://icp.chinaz.com/ icp备案查询
-
 https://www.zhihu.com/question/19561454 来自知乎的前端工具汇总
-
-http://jingyan.baidu.com/article/c85b7a645454ae003aac9577.html gif图解帧成图片
 
 http://jshint.com/ jshint是一个javaScript语法和风格的检查工具，但检查不出逻辑问题
 
 http://www.css-js.com/ JS压缩、解压、格式化、混淆加密、解密
 
-https://cases.aotu.io/index.html H5案例
+https://sonarwhal.com/scanner  网站在线分析
 
 ### 前端资源收集
 
@@ -88,15 +82,13 @@ https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
 
 http://git.oschina.net/progit/ Pro Git（中文版）
 
-http://svgtrick.com/  svgtrick.com 是一个汇集了 svg 使用、svg 入门教程、svg 动画编写、使用经验与svg技巧和窍门的网站。
-
 https://github.com/mqyqingfeng/Blog  JavaScript深入系列、JavaScript专题系列 博客
 
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清单
 
-https://juejin.im/user/59659aff5188250cf956e6dd  蚂蚁金服ProtoTeam
-
 http://elevenbeans.me/  好玩的简历模板
+
+https://cases.aotu.io/index.html H5案例
 
 ### 前端每月好文（个人收集仅供参考）
 

@@ -205,3 +205,7 @@ http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更
 http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
 
 http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
+
+https://yunnysunny.gitbooks.io/nodebook/content/ nodebook
+
+https://www.zhihu.com/question/21567720?group_id=871519504654565376 知乎问答：“如何系统地学习nodejs”

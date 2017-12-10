@@ -90,6 +90,23 @@ http://elevenbeans.me/  好玩的简历模板
 
 https://cases.aotu.io/index.html H5案例
 
+http://sangka-z.com/PWA-Book-CN/Part1.html  Progressive Web Apps (PWA) 中文版
+
+### 关于Node.js
+
+*这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*
+
+http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新
+
+http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
+
+http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
+
+https://yunnysunny.gitbooks.io/nodebook/content/ nodebook
+
+https://www.zhihu.com/question/21567720?group_id=871519504654565376 知乎问答：“如何系统地学习nodejs”
+
+
 ### 前端每月好文（个人收集仅供参考）
 
 #### 2017-08
@@ -196,16 +213,6 @@ https://juejin.im/post/5a0c184c51882531926e4294  个人总结（css3新特性）
 
 https://juejin.im/post/5a24a879f265da431a430467  再也不学AJAX了！（三）跨域获取资源 ① - 同源策略
 
-### 关于Node.js
+https://www.quora.com/Which-should-I-learn-Mithril-Vue-or-Angular/answer/Evan-You-3  面对如此多框架，我们该如何选择。看vue的作者给出的答案
 
-*这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*
 
-http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新
-
-http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
-
-http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
-
-https://yunnysunny.gitbooks.io/nodebook/content/ nodebook
-
-https://www.zhihu.com/question/21567720?group_id=871519504654565376 知乎问答：“如何系统地学习nodejs”

@@ -91,6 +91,8 @@ http://elevenbeans.me/  好玩的简历模板
 https://cases.aotu.io/index.html H5案例
 
 http://sangka-z.com/PWA-Book-CN/Part1.html  Progressive Web Apps (PWA) 中文版
+ 
+https://www.angular.cn/  angular 中文文档
 
 ### 关于Node.js
 

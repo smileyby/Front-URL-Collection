@@ -58,6 +58,8 @@ http://www.css-js.com/ JS压缩、解压、格式化、混淆加密、解密
 
 https://sonarwhal.com/scanner  网站在线分析
 
+https://logofox.co/form/name  Logo设计站
+
 ### 前端资源收集
 
 https://gitbook.hellogithub.com/  兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣！
@@ -218,5 +220,9 @@ https://juejin.im/post/5a24a879f265da431a430467  再也不学AJAX了！（三）
 https://www.quora.com/Which-should-I-learn-Mithril-Vue-or-Angular/answer/Evan-You-3  面对如此多框架，我们该如何选择。看vue的作者给出的答案
 
 https://aotu.io/notes/2017/11/27/iphonex/  网页适配 iPhoneX，就是这么简单
+
+https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/  Evolution of <img>: Gif without the GIF
+
+http://2ality.com/2017/12/alternate-this.html  A different way of understanding this in JavaScript
 
 

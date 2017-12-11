@@ -96,6 +96,8 @@ http://sangka-z.com/PWA-Book-CN/Part1.html  Progressive Web Apps (PWA) 中文版
  
 https://www.angular.cn/  angular 中文文档
 
+http://huziketang.com/books/react/  React.js 小书
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

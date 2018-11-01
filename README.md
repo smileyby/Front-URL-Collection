@@ -60,6 +60,8 @@ https://sonarwhal.com/scanner  网站在线分析
 
 https://logofox.co/form/name  Logo设计站
 
+https://woolson.github.io/npmer-page/ 在生成NPM徽标链接
+
 ### 前端资源收集
 
 https://yuchengkai.cn/docs/zh/ 打造最好的面试图谱

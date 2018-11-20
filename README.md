@@ -42,6 +42,8 @@ https://tympanus.net/Tutorials/CircularNavigation/  炫酷圆形导航
 
 http://www.turnjs.com/  特别好玩的翻书效果
 
+https://rainbowhunt.me/  天气视觉效果
+
 ### 实用工具收集
 
 http://www.ilovepdf.com/zh_cn   pdf文件转换
@@ -61,6 +63,8 @@ https://sonarwhal.com/scanner  网站在线分析
 https://logofox.co/form/name  Logo设计站
 
 https://woolson.github.io/npmer-page/ 在生成NPM徽标链接
+
+https://squoosh.app/  图片压缩
 
 ### 前端资源收集
 

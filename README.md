@@ -99,14 +99,12 @@ http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清
 http://elevenbeans.me/  好玩的简历模板
 
 https://cases.aotu.io/index.html H5案例
-
-http://sangka-z.com/PWA-Book-CN/Part1.html  Progressive Web Apps (PWA) 中文版
  
 https://www.angular.cn/  angular 中文文档
 
 http://huziketang.com/books/react/  React.js 小书
 
-https://www.toolmao.com/  工具锚-学武止境
+http://caibaojian.com/rem-and-px.html  rem与px
 
 ### 关于Node.js
 

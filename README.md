@@ -46,6 +46,8 @@ https://rainbowhunt.me/  天气视觉效果
 
 ### 实用工具收集
 
+https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=inline-install-disabled chrome 前端助手（推荐安装）
+
 http://www.ilovepdf.com/zh_cn   pdf文件转换
 
 http://www.json.cn/  JSON 格式化

@@ -20,11 +20,13 @@ https://coolshell.cn/articles/17583.html  技术人员的发展之路
 
 ### 关于移动端页面适配
 
-lib-flexible 自适应解决方案 https://github.com/amfe/lib-flexible/tree/master
+https://github.com/amfe/lib-flexible/tree/master lib-flexible 自适应解决方案 
 
-lib-flexible 使用教程 http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html
+http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html lib-flexible 使用教程 
 
-再聊移动端页面的适配（2017-08-02） https://www.w3cplus.com/css/vw-for-layout.html
+https://www.w3cplus.com/css/vw-for-layout.html 再聊移动端页面的适配（2017-08-02）
+
+https://www.w3cplus.com/mobile/vw-layout-in-vue.html 如何在Vue项目中使用vw实现移动端适配
 
 
 ### 有趣网址收集

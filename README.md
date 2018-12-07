@@ -11,6 +11,9 @@ try {
 }
 ```
 
+### 科学上网
+https://segmentfault.com/a/1190000016911075 自行搭建 ss 服务图文教程 10分钟学会科学上网
+
 ### 程序员的思考
 
 https://coolshell.cn/articles/17583.html  技术人员的发展之路

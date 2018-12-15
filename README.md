@@ -142,6 +142,8 @@ https://palx.jxnblk.com/ css色彩搭配
 
 https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/ An Introduction to CSS Shapes
 
+https://juejin.im/post/5c1365a9e51d452f8e6034cb 【译】你不知道的 Chrome 调试工具技巧 第十天：custom formatters（自定义格式转换器）
+
 ### 关于Node.js
 
 *这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*

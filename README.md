@@ -76,6 +76,10 @@ https://rainbowhunt.me/  天气视觉效果
 
 ### 实用工具收集
 
+https://next.json-generator.com/ 非JSON格式数据转JSON数据
+
+https://shapy.app/ 快速获取渐变类css样式
+
 https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=inline-install-disabled chrome 前端助手（推荐安装）
 
 http://www.ilovepdf.com/zh_cn   pdf文件转换
@@ -99,6 +103,8 @@ https://woolson.github.io/npmer-page/ 在生成NPM徽标链接
 https://squoosh.app/  图片压缩
 
 ### 前端资源收集
+
+https://github.com/NickPiscitelli/Glider.js 轻量级轮播JS
 
 https://yuchengkai.cn/docs/zh/ 打造最好的面试图谱
 

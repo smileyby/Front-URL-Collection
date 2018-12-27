@@ -104,7 +104,7 @@ https://squoosh.app/  图片压缩
 
 ### 前端资源收集
 
-https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd VUE 开元库
+https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd VUE 开源库
 
 https://github.com/NickPiscitelli/Glider.js 轻量级轮播JS
 

@@ -104,6 +104,8 @@ https://squoosh.app/  图片压缩
 
 ### 前端资源收集
 
+https://github.com/GitHubDaily/GitHubDaily 资源链接
+
 https://www.cnblogs.com/yzg1/p/5089534.html CSS文本溢出显示省略号
 
 https://chokcoco.github.io/CSS-Inspiration/#/ CSS灵感

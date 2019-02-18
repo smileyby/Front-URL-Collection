@@ -104,6 +104,8 @@ https://squoosh.app/  图片压缩
 
 ### 前端资源收集
 
+https://www.yuque.com/fe9/basic 前端九部 - 入门者手册2019
+
 https://github.com/GitHubDaily/GitHubDaily 资源链接
 
 https://www.cnblogs.com/yzg1/p/5089534.html CSS文本溢出显示省略号

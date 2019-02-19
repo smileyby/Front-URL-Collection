@@ -1,177 +1,460 @@
-前端网址收集
-==========
+# 前端网址收集
 
-### 处理错误的正确姿势
+@(smileyby)[前端资源收集|Markdown]
+
+**前端资源收集**本文搜集了有关于前端，但不局限于前端的资源链接，所有资源均来源于网路，为爱学习的小伙伴提供更多可以参考的学习资源，如有侵权或不妥之处，请提issue，将及时处理。
+
+-------------------
+
+[TOC]
+
+## 错误处理 
 
 ```javascript
 console.log([
-      "                   _ooOoo_",
-      "                  o8888888o",
-      "                  88\" . \"88",
-      "                  (| -_- |)",
-      "                  O\\  =  /O",
-      "               ____/`---'\\____",
-      "             .'  \\\\|     |//  `.",
-      "            /  \\\\|||  :  |||//  \\",
-      "           /  _||||| -:- |||||-  \\",
-      "           |   | \\\\\\  -  /// |   |",
-      "           | \\_|  ''\\---/''  |   |",
-      "           \\  .-\\__  `-`  ___/-. /",
-      "         ___`. .'  /--.--\\  `. . __",
-      "      .\"\" '<  `.___\\_<|>_/___.'  >'\"\".",
-      "     | | :  `- \\`.;`\\ _ /`;.`/ - ` : | |",
-      "     \\  \\ `-.   \\_ __\\ /__ _/   .-` /  /",
-      "======`-.____`-.___\\_____/___.-`____.-'======",
-      "                   `=---='",
-      "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
-      "         佛祖保佑       永无BUG"
-    ].join('\n'));
+  "                   _ooOoo_",
+  "                  o8888888o",
+  "                  88\" . \"88",
+  "                  (| -_- |)",
+  "                  O\\  =  /O",
+  "               ____/`---'\\____",
+  "             .'  \\\\|     |//  `.",
+  "            /  \\\\|||  :  |||//  \\",
+  "           /  _||||| -:- |||||-  \\",
+  "           |   | \\\\\\  -  /// |   |",
+  "           | \\_|  ''\\---/''  |   |",
+  "           \\  .-\\__  `-`  ___/-. /",
+  "         ___`. .'  /--.--\\  `. . __",
+  "      .\"\" '<  `.___\\_<|>_/___.'  >'\"\".",
+  "     | | :  `- \\`.;`\\ _ /`;.`/ - ` : | |",
+  "     \\  \\ `-.   \\_ __\\ /__ _/   .-` /  /",
+  "======`-.____`-.___\\_____/___.-`____.-'======",
+  "                   `=---='",
+  "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+  "         佛祖保佑       永无BUG"
+].join('\n'));
 ```
 
-```
+```javascript
 try {
-    something
+  something
 } catch (e) {
-	window.location.href = "http://stackoverflow.com/search?q=[js]+" + e.message;
+  window.location.href = "http://stackoverflow.com/search?q=[js]+" + e.message;
 }
 ```
 
-### 科学上网
-https://segmentfault.com/a/1190000016911075 自行搭建 ss 服务图文教程 10分钟学会科学上网
+## CSS
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>网易的NEC(Nice Easy CSS)代码库</td>
+			<td>[http://nec.netease.com/library](http://nec.netease.com/library)</td>
+		</tr>
+		<tr>
+			<td>30S或更短时间就可以学会的CSS</td>
+			<td>[https://30-seconds.github.io/30-seconds-of-css/](https://30-seconds.github.io/30-seconds-of-css/)</td>
+		</tr>
+		<tr>
+			<td>Animate.css</td>
+			<td>[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)</td>
+		</tr>
+		<tr>
+			<td>HTML和CSS的规范和结构</td>
+			<td>[http://codeguide.co/](http://codeguide.co/)</td>
+		</tr>
+		<tr>
+			<td>CSS-loading-1</td>
+			<td>[https://epic-spinners.epicmax.co/#/](https://epic-spinners.epicmax.co/#/)</td>
+		</tr>
+		<tr>
+			<td>CSS-loading-2</td>
+			<td>[https://loading.io/spinner/](https://loading.io/spinner/)</td>
+		</tr>
+		<tr>
+			<td>CSS-图片色彩过滤</td>
+			<td>[https://picturepan2.github.io/instagram.css/](https://picturepan2.github.io/instagram.css/)</td>
+		</tr>
+		<tr>
+			<td>CSS-动画-1</td>
+			<td>[http://animista.net/](http://animista.net/)</td>
+		</tr>
+		<tr>
+			<td>CSS-动画-2</td>
+			<td>[https://github.com/Martz90/vivify](https://github.com/Martz90/vivify)</td>
+		</tr>
+		<tr>
+			<td>CSS-浏览器前缀自动补全</td>
+			<td>[http://pleeease.io/play/](http://pleeease.io/play/)</td>
+		</tr>
+		<tr>
+			<td>CSS-奇技淫巧</td>
+			<td>[https://github.com/chokcoco/iCSS](https://github.com/chokcoco/iCSS)</td>
+		</tr>
+		<tr>
+			<td>CSS-文本溢出显示省略号</td>
+			<td>[https://www.cnblogs.com/yzg1/p/5089534.html](https://www.cnblogs.com/yzg1/p/5089534.html)</td>
+		</tr>
+		<tr>
+			<td>CSS Inspiration -- CSS灵感</td>
+			<td>[https://chokcoco.github.io/CSS-Inspiration/#/](https://chokcoco.github.io/CSS-Inspiration/#/)</td>
+		</tr>
+		<tr>
+			<td>CSS魔法</td>
+			<td>[https://github.com/cssmagic/blog](https://github.com/cssmagic/blog)</td>
+		</tr>
+		<tr>
+			<td>rem与px的转换</td>
+			<td>[http://caibaojian.com/rem-and-px.html](http://caibaojian.com/rem-and-px.html)</td>
+		</tr>
+		<tr>
+			<td>CSS-色彩搭配</td>
+			<td>[https://palx.jxnblk.com/](https://palx.jxnblk.com/)</td>
+		</tr>
+		<tr>
+			<td>CSS-图形介绍</td>
+			<td>[https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)</td>
+		</tr>
+	</tbody>
+</table>
+
+## JavaScript
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>轻量级轮播JS</td>
+			<td>[https://github.com/NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js)</td>
+		</tr>
+		<tr>
+			<td>JavaScript深入系列、JavaScript专题系列 博客</td>
+			<td>[https://github.com/mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)</td>
+		</tr>
+		<tr>
+			<td>你不知道的Chrome调试工具技巧</td>
+			<td>[https://juejin.im/post/5c09a80151882521c81168a2](https://juejin.im/post/5c09a80151882521c81168a2)</td>
+		</tr>
+		<tr>
+			<td>有哪些短小却令人惊叹的 JavaScript 代码？</td>
+			<td>[https://www.zhihu.com/question/46943112](https://www.zhihu.com/question/46943112)</td>
+		</tr>
+		<tr>
+			<td>翻书效果</td>
+			<td>[http://www.turnjs.com/2](http://www.turnjs.com/)</td>
+		</tr>
+		<tr>
+			<td>天气效果</td>
+			<td>[https://rainbowhunt.me/](https://rainbowhunt.me/)</td>
+		</tr>
+		<tr>
+			<td>汉字拼音转换工具</td>
+			<td>[https://hotoo.github.io/pinyin/](https://hotoo.github.io/pinyin/)</td>
+		</tr>
+		<tr>
+			<td>精致的下拉刷新和上拉加载</td>
+			<td>[https://github.com/mescroll/mescroll](https://github.com/mescroll/mescroll)</td>
+		</tr>
+		<tr>
+			<td>一组匹配中国大陆手机号码的正则表达式</td>
+			<td>[https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md]https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md)</td>
+		</tr>
+		<tr>
+			<td>你可能不知道的前端知识点</td>
+			<td>[https://github.com/justjavac/the-front-end-knowledge-you-may-not-know/issues](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know/issues)</td>
+		</tr>
+		<tr>
+			<td>常用代码收集资源分享</td>
+			<td>[https://github.com/jsfront/src](https://github.com/jsfront/src)</td>
+		</tr>
+	</tbody>
+</table>
+
+## VUE
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>力荐35个最好用的Vue开源库！</td>
+			<td>[https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd)</td>
+		</tr>
+		<tr>
+			<td>Vue.js 源码解析</td>
+			<td>[https://github.com/answershuto/learnVue](https://github.com/answershuto/learnVue)</td>
+		</tr>
+	</tbody>
+</table>
+
+## React
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>React.js 小书</td>
+			<td>[http://huziketang.mangojuice.top/books/react/](http://huziketang.mangojuice.top/books/react/)</td>
+		</tr>
+	</tbody>
+</table>
+
+## Node.js
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>全栈最后一公里</td>
+			<td>[http://www.imooc.com/article/17554](http://www.imooc.com/article/17554)</td>
+		</tr>
+		<tr>
+			<td>Node.js入门</td>
+			<td>[http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/)</td>
+		</tr>
+		<tr>
+			<td>关于 Node.js 技术的开放源码电子书</td>
+			<td>[https://yunnysunny.gitbooks.io/nodebook/content/](https://yunnysunny.gitbooks.io/nodebook/content/)</td>
+		</tr>
+		<tr>
+			<td>如何系统地学习nodejs</td>
+			<td>[https://www.zhihu.com/question/21567720?group_id=871519504654565376](https://www.zhihu.com/question/21567720?group_id=871519504654565376)</td>
+		</tr>
+		<tr>
+			<td>Node.js调试指南</td>
+			<td>[https://github.com/nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging)</td>
+		</tr>
+	</tbody>
+</table>
+
+## 移动端适配
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>使用Flexible实现手淘H5页面的终端适配</td>
+			<td>[https://github.com/amfe/article/issues/17](https://github.com/amfe/article/issues/17)</td>
+		</tr>
+		<tr>
+			<td>再聊移动端页面的适配</td>
+			<td>[https://www.w3cplus.com/css/vw-for-layout.html](https://www.w3cplus.com/css/vw-for-layout.html)</td>
+		</tr>
+		<tr>
+			<td>如何在Vue项目中使用vw实现移动端适配</td>
+			<td>[https://www.w3cplus.com/mobile/vw-layout-in-vue.html](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)</td>
+		</tr>
+	</tbody>
+</table>
+
+## 常用工具
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Web前端导航</td>
+			<td>[http://www.alloyteam.com/nav/](http://www.alloyteam.com/nav/)</td>
+		</tr>
+		<tr>
+			<td>科学上网</td>
+			<td>[https://segmentfault.com/a/1190000016911075](https://segmentfault.com/a/1190000016911075)</td>
+		</tr>
+		<tr>
+			<td>测试网址在各个地区的响应情况</td>
+			<td>[https://www.17ce.com/](https://www.17ce.com/)</td>
+		</tr>
+		<tr>
+			<td>can i use</td>
+			<td>[https://caniuse.com/](https://caniuse.com/)</td>
+		</tr>
+		<tr>
+			<td>百度统计</td>
+			<td>[http://tongji.baidu.com/data/browser](http://tongji.baidu.com/data/browser)</td>
+		</tr>
+		<tr>
+			<td>CSS, JavaScript 压缩, 美化, 加密, 解密</td>
+			<td>[https://tool.css-js.com/](https://tool.css-js.com/)</td>
+		</tr>
+		<tr>
+			<td>JSON格式化</td>
+			<td>[https://www.json.cn/](https://www.json.cn/)</td>
+		</tr>
+		<tr>
+			<td>网站在线分析</td>
+			<td>[https://sonarwhal.com/scanner](https://sonarwhal.com/scanner)</td>
+		</tr>
+		<tr>
+			<td>在线生成NPM徽标链接</td>
+			<td>[https://woolson.github.io/npmer-page/](https://woolson.github.io/npmer-page/)</td>
+		</tr>
+		<tr>
+			<td>在线图片压缩</td>
+			<td>[https://tinypng.com/](https://tinypng.com/)</td>
+		</tr>
+	</tbody>
+</table>
+
+## 书籍&手册&早报&博客
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>前端九部 - 入门者手册2019</td>
+			<td>[https://www.yuque.com/fe9/basic](https://www.yuque.com/fe9/basic)</td>
+		</tr>
+		<tr>
+			<td>HelloGitHub</td>
+			<td>[https://gitbook.hellogithub.com/](https://gitbook.hellogithub.com/q)</td>
+		</tr>
+		<tr>
+			<td>每日时报</td>
+			<td>[https://wubaiqing.github.io/zaobao/](https://wubaiqing.github.io/zaobao/)</td>
+		</tr>
+		<tr>
+			<td>阮一峰老师-技术分享周刊，每周五发布</td>
+			<td>[https://github.com/ruanyf/weekly](https://github.com/ruanyf/weekly)</td>
+		</tr>
+		<tr>
+			<td>git使用手册</td>
+			<td>[https://gitee.com/progit/](https://gitee.com/progit/)</td>
+		</tr>
+		<tr>
+			<td>深度学习-中文翻译版</td>
+			<td>[https://exacity.github.io/deeplearningbook-chinese/](https://exacity.github.io/deeplearningbook-chinese/)</td>
+		</tr>
+		<tr>
+			<td>程序员应该访问的最佳网站</td>
+			<td>[https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)</td>
+		</tr>
+		<tr>
+			<td>深入浅出 Webpack</td>
+			<td>[https://github.com/gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)</td>
+		</tr>
+		<tr>
+			<td>腾讯移动 Web 前端知识库</td>
+			<td>[https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars)</td>
+		</tr>
+		<tr>
+			<td>前端小密圈</td>
+			<td>[https://github.com/jawil/blog](https://github.com/jawil/blog)</td>
+		</tr>
+		<tr>
+			<td>林鑫个人博客</td>
+			<td>[https://github.com/lin-xin/blog](https://github.com/lin-xin/blog)</td>
+		</tr>
+		<tr>
+			<td>foru17-前端收集</td>
+			<td>[https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect)</td>
+		</tr>
+		<tr>
+			<td>fouber-个人博客</td>
+			<td>[https://github.com/fouber/blog](https://github.com/fouber/blog)</td>
+		</tr>
+	</tbody>
+</table>
+
+## 面试
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>前端面试图谱</td>
+			<td>[https://yuchengkai.cn/docs/frontend/](https://yuchengkai.cn/docs/frontend/)</td>
+		</tr>
+		<tr>
+			<td>简历模板</td>
+			<td>[http://elevenbeans.me/](http://elevenbeans.me/)</td>
+		</tr>
+		<tr>
+			<td>前端开发面试题大收集，前端面试集锦</td>
+			<td>[https://github.com/paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)</td>
+		</tr>
+		<tr>
+			<td>前端面试之道</td>
+			<td>[https://github.com/InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)</td>
+		</tr>
+		<tr>
+			<td>如何通过饿了么 Node.js 面试</td>
+			<td>[https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)</td>
+		</tr>
+		<tr>
+			<td>程序员简历模板系列</td>
+			<td>[https://github.com/geekcompany/ResumeSample]https://github.com/geekcompany/ResumeSample)</td>
+		</tr>
+	</tbody>
+</table>
+
+## 趣味网址
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>京东H5案例</td>
+			<td>[https://cases.aotu.io/index.html](https://cases.aotu.io/index.html)</td>
+		</tr>
+		<tr>
+			<td>简历模板</td>
+			<td>[http://elevenbeans.me/](http://elevenbeans.me/)</td>
+		</tr>
+		<tr>
+			<td>游戏</td>
+			<td>[http://k.swao.cn/js/web/game/t_01/level_01/step1.html]http://k.swao.cn/js/web/game/t_01/level_01/step1.html)</td>
+		</tr>
+	</tbody>
+</table>
 
-### 程序员的思考
 
-https://coolshell.cn/articles/17583.html  技术人员的发展之路
-
-### 关于移动端页面适配
-
-https://github.com/amfe/lib-flexible/tree/master lib-flexible 自适应解决方案 
-
-http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html lib-flexible 使用教程 
-
-https://www.w3cplus.com/css/vw-for-layout.html 再聊移动端页面的适配（2017-08-02）
-
-https://www.w3cplus.com/mobile/vw-layout-in-vue.html 如何在Vue项目中使用vw实现移动端适配
-
-
-### 有趣网址收集
-
-http://k.swao.cn/js/web/game/t_01/level_01/step1.html
-
-http://weavesilk.com/?tgxl
-
-https://www.douban.com/group/topic/27093596/?type=like
-
-http://whxaxes.github.io/canvas-test/src//Funny-demo/netparticle/net_2.html
-
-https://www.zhihu.com/question/46943112 短小精悍的js代码
-
-https://sylvainpolletvillard.github.io/grid-kiss-playground/index.html#basic-layout  有趣的css代码
-
-https://tympanus.net/Tutorials/CircularNavigation/  炫酷圆形导航
-
-http://www.turnjs.com/  特别好玩的翻书效果
-
-https://rainbowhunt.me/  天气视觉效果
-
-### 实用工具收集
-
-https://next.json-generator.com/ 非JSON格式数据转JSON数据
-
-https://shapy.app/ 快速获取渐变类css样式
-
-https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=inline-install-disabled chrome 前端助手（推荐安装）
-
-http://www.ilovepdf.com/zh_cn   pdf文件转换
-
-http://www.json.cn/  JSON 格式化
-
-https://www.17ce.com/  测试网址在各个地区的响应情况
-
-https://www.zhihu.com/question/19561454 来自知乎的前端工具汇总
-
-http://jshint.com/ jshint是一个javaScript语法和风格的检查工具，但检查不出逻辑问题
-
-http://www.css-js.com/ JS压缩、解压、格式化、混淆加密、解密
-
-https://sonarwhal.com/scanner  网站在线分析
-
-https://logofox.co/form/name  Logo设计站
-
-https://woolson.github.io/npmer-page/ 在生成NPM徽标链接
-
-https://squoosh.app/  图片压缩
-
-### 前端资源收集
-
-https://www.yuque.com/fe9/basic 前端九部 - 入门者手册2019
-
-https://github.com/GitHubDaily/GitHubDaily 资源链接
-
-https://www.cnblogs.com/yzg1/p/5089534.html CSS文本溢出显示省略号
-
-https://chokcoco.github.io/CSS-Inspiration/#/ CSS灵感
-
-https://wubaiqing.github.io/zaobao/ 前端早报
-
-https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd VUE 开源库
-
-https://github.com/NickPiscitelli/Glider.js 轻量级轮播JS
-
-https://yuchengkai.cn/docs/zh/ 打造最好的面试图谱
-
-https://gitbook.hellogithub.com/  兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣！
-
-https://github.com/cssmagic/blog  CSS魔法 - 博客
-
-https://zhuanlan.zhihu.com/p/23344447  前端开发资源收集--知乎
-
-http://nec.netease.com/ 更好的css样式解决方案
-
-http://www.alloyteam.com/nav/  web前端导航站点
-
-https://github.com/Martz90/vivify Vivify是免费的CSS动画库
-
-https://devdocs.io/ 各类API文档集合
-
-http://overapi.com/javascript 前后端语言API合集
-
-https://devhints.io/ a modest collection of cheatsheets by @rstacruz
-
-https://yoksel.github.io/flex-cheatsheet/ Flexbox 文档
-
-http://git.oschina.net/progit/ Pro Git（中文版）
-
-https://github.com/mqyqingfeng/Blog  JavaScript深入系列、JavaScript专题系列 博客
-
-http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html 常用 Git 命令清单
-
-http://elevenbeans.me/  好玩的简历模板
-
-https://cases.aotu.io/index.html H5案例
- 
-https://www.angular.cn/  angular 中文文档
-
-http://huziketang.com/books/react/  React.js 小书
-
-http://caibaojian.com/rem-and-px.html  rem与px
-
-https://palx.jxnblk.com/ css色彩搭配
-
-https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/ An Introduction to CSS Shapes
-
-https://juejin.im/post/5c1365a9e51d452f8e6034cb 【译】你不知道的 Chrome 调试工具技巧 第十天：custom formatters（自定义格式转换器）
-
-### 关于Node.js
-
-*这里将集中收集一些关于如何学习nodejs，以及nodejs项目实际案例的教程*
-
-http://blog.csdn.net/qq_36423639/article/details/70230571 windows下使用nvm更新nodejs版本到最新
-
-http://www.imooc.com/article/17554 Scott 编写（Nodejs系列课程，从入门到进阶帮你打通全栈）
-
-http://nqdeng.github.io/7-days-nodejs/  七天学会nodejs
-
-https://yunnysunny.gitbooks.io/nodebook/content/ nodebook
-
-https://www.zhihu.com/question/21567720?group_id=871519504654565376 知乎问答：“如何系统地学习nodejs”

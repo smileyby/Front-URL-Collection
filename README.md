@@ -427,6 +427,10 @@ try {
 			<td>程序员简历模板系列</td>
 			<td>https://github.com/geekcompany/ResumeSample</td>
 		</tr>
+		<tr>
+			<td>每天一道前端大厂面试题</td>
+			<td>https://github.com/Advanced-Frontend/Daily-Interview-Question</td>
+		</tr>
 	</tbody>
 </table>
 

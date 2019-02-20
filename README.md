@@ -456,6 +456,10 @@ try {
 			<td>游戏</td>
 			<td>http://k.swao.cn/js/web/game/t_01/level_01/step1.html</td>
 		</tr>
+		<tr>
+			<td>会唱歌的图片</td>
+			<td>http://nodtotherhythm.com/make</td>
+		</tr>
 	</tbody>
 </table>
 

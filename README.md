@@ -177,6 +177,10 @@ try {
 			<td>常用代码收集资源分享</td>
 			<td>https://github.com/jsfront/src</td>
 		</tr>
+		<tr>
+			<td>轻量级搜索</td>
+			<td>https://github.com/krisk/fuse</td>
+		</tr>
 	</tbody>
 </table>
 

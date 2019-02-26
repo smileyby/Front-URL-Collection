@@ -136,7 +136,19 @@ try {
 		</tr>
 	</thead>
 	<tbody>
-			<tr>
+		<tr>
+			<td>格式化input输入数据</td>
+			<td>https://github.com/nosir/cleave.js/</td>
+		</tr>
+		<tr>
+			<td>使用document.scrollingElement控制窗体滚动高度</td>
+			<td>https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/</td>
+		</tr>
+		<tr>
+			<td>javascript-tutorial-en 一份开源的 JavaScript 教程</td>
+			<td>https://javascript.info/</td>
+		</tr>
+		<tr>
 			<td>H5 键盘兼容性小结</td>
 			<td>https://juejin.im/post/5c6d1c8b6fb9a049de6df441</td>
 		</tr>

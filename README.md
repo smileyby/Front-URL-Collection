@@ -47,7 +47,7 @@ try {
 
 ## CSS
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -132,7 +132,7 @@ try {
 
 ## JavaScript
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -205,7 +205,7 @@ try {
 
 ## VUE
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -226,7 +226,7 @@ try {
 
 ## React
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -243,7 +243,7 @@ try {
 
 ## Node.js
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -276,7 +276,7 @@ try {
 
 ## 移动端适配
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -301,7 +301,7 @@ try {
 
 ## 常用工具
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -354,7 +354,7 @@ try {
 
 ## 书籍&手册&早报&博客
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -427,7 +427,7 @@ try {
 
 ## 面试
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -466,9 +466,27 @@ try {
 	</tbody>
 </table>
 
+## UI设计
+
+<table style="width:100%">
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>UI效果图</td>
+			<td>https://uimovement.com/</td>
+		</tr>
+	</tbody>
+</table>
+
+
 ## 趣味网址
 
-<table>
+<table style="width:100%">
 	<thead>
 		<tr>
 			<th>描述</th>

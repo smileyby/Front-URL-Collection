@@ -4,11 +4,35 @@
 
 > **前端资源收集**本文搜集了有关于前端，但不局限于前端的资源链接，所有资源均来源于网路，为爱学习的小伙伴提供更多可以参考的学习资源，如有侵权或不妥之处，请提issue，将及时处理。
 >
-> **关于技术人员的发展之路**：这里推荐阅读 https://coolshell.cn/articles/17583.html 这篇文章
->
 > **码上公益**：如果你在工作和学习之余仍然有闲暇时间，不妨加入阿里的-[码上公益](https://greencode.aliyun.com/)，用技术助力公益，让科技更有温度。
 
 -------------------
+
+## 程序员的思考
+
+<table>
+	<thead>
+		<tr>
+			<th>描述</th>
+			<th>网址</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>为前端工程之崛起而编程</td>
+			<td>https://juejin.im/post/5c77eecbf265da2d8532f345</td>
+		</tr>
+		<tr>
+			<td>关于技术人员的发展之路</td>
+			<td>https://coolshell.cn/articles/17583.html</td>
+		</tr>
+		<tr>
+			<td>从事前端真的没有后端工资高？</td>
+			<td>https://www.zhihu.com/question/268677313/answer/387631307</td>
+		</tr>
+	</tbody>
+</table>
+
 
 ## 错误处理 
 
@@ -47,7 +71,7 @@ try {
 
 ## CSS
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -132,7 +156,7 @@ try {
 
 ## JavaScript
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -205,7 +229,7 @@ try {
 
 ## VUE
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -243,7 +267,7 @@ try {
 
 ## Node.js
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -276,7 +300,7 @@ try {
 
 ## 移动端适配
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -301,7 +325,7 @@ try {
 
 ## 常用工具
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -354,7 +378,7 @@ try {
 
 ## 书籍&手册&早报&博客
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -427,7 +451,7 @@ try {
 
 ## 面试
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -468,7 +492,7 @@ try {
 
 ## UI设计
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>
@@ -486,7 +510,7 @@ try {
 
 ## 趣味网址
 
-<table style="width:100%">
+<table>
 	<thead>
 		<tr>
 			<th>描述</th>

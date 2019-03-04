@@ -8,6 +8,37 @@
 
 -------------------
 
+<style>
+	table {
+		width: 100%;
+	}
+
+	table thead {
+		border-bottom: 2px solid #f9f9f9;
+	}
+
+	table thead tr th {
+		min-width: 220px;
+	}
+
+	table tbody tr:nth-of-type(2n+1) {
+		background: #f9f9f9;
+	}
+
+	table tbody tr td:first-child {
+		color: Salmon;
+	}
+
+	table tbody tr:nth-of-type(2n) {
+		background: #fff;
+	}
+
+	table tbody tr td:last-child {
+		color: LightSeaGreen;
+	}
+	
+</style>
+
 ## 程序员的思考
 
 <table>
@@ -533,6 +564,10 @@ try {
 		<tr>
 			<td>会唱歌的图片</td>
 			<td>http://nodtotherhythm.com/make</td>
+		</tr>
+		<tr>
+			<td>基于 React 的经典坦克大战</td>
+			<td>https://github.com/shinima/battle-city</td>
 		</tr>
 	</tbody>
 </table>

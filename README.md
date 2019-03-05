@@ -8,6 +8,8 @@
 
 -------------------
 
+## 程序员的思考
+
 <style>
 	table {
 		width: 100%;
@@ -38,8 +40,6 @@
 	}
 	
 </style>
-
-## 程序员的思考
 
 <table>
 	<thead>
@@ -196,6 +196,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>货币自动格式化</td>
+			<td>http://autonumeric.org/examples/</td>
+		</tr>
+		<tr>
 			<td>格式化input输入数据</td>
 			<td>https://github.com/nosir/cleave.js/</td>
 		</tr>
@@ -268,6 +272,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+<tr>
+			<td>基于Bulma的Vue.js的轻量级UI组件</td>
+			<td>https://buefy.org/</td>
+		</tr>
 		<tr>
 			<td>力荐35个最好用的Vue开源库！</td>
 			<td>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd</td>
@@ -491,6 +499,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>前端开发者面试问题汇总整理</td>
+			<td>https://github.com/h5bp/Front-end-Developer-Interview-Questions/</td>
+		</tr>
+		<tr>
 			<td>前端面试图谱</td>
 			<td>https://yuchengkai.cn/docs/frontend/</td>
 		</tr>
@@ -550,6 +562,14 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>将网址转成emoji</td>
+			<td>https://e.mezw.com/</td>
+		</tr>
+		<tr>
+			<td>基于 React 的经典坦克大战</td>
+			<td>https://github.com/shinima/battle-city</td>
+		</tr>
+		<tr>
 			<td>京东H5案例</td>
 			<td>https://cases.aotu.io/index.html</td>
 		</tr>
@@ -564,10 +584,6 @@ try {
 		<tr>
 			<td>会唱歌的图片</td>
 			<td>http://nodtotherhythm.com/make</td>
-		</tr>
-		<tr>
-			<td>基于 React 的经典坦克大战</td>
-			<td>https://github.com/shinima/battle-city</td>
 		</tr>
 	</tbody>
 </table>

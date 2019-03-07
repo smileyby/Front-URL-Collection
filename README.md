@@ -111,6 +111,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>纯 CSS 实现鼠标跟随效果</td>
+			<td>https://juejin.im/post/5c7f333ce51d4541e510cd6f</td>
+		</tr>
+		<tr>
 			<td>一套基于 Bootstrap 4 免费开源的 Dashboard 模版</td>
 			<td>https://github.com/tabler/tabler</td>
 		</tr>
@@ -561,6 +565,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>我在 GitHub 上都见过哪些沙雕项目？</td>
+			<td>https://zhuanlan.zhihu.com/p/58404875</td>
+		</tr>
 		<tr>
 			<td>将网址转成emoji</td>
 			<td>https://e.mezw.com/</td>

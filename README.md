@@ -10,37 +10,6 @@
 
 ## 程序员的思考
 
-<style>
-	table {
-		width: 100%;
-	}
-
-	table thead {
-		border-bottom: 2px solid #f9f9f9;
-	}
-
-	table thead tr th {
-		min-width: 220px;
-	}
-
-	table tbody tr:nth-of-type(2n+1) {
-		background: #f9f9f9;
-	}
-
-	table tbody tr td:first-child {
-		color: Salmon;
-	}
-
-	table tbody tr:nth-of-type(2n) {
-		background: #fff;
-	}
-
-	table tbody tr td:last-child {
-		color: LightSeaGreen;
-	}
-	
-</style>
-
 <table>
 	<thead>
 		<tr>

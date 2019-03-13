@@ -19,6 +19,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>前端专业方向的尽头</td>
+			<td>https://www.zhangxinxu.com/life/2019/03/fe-end/</td>
+		</tr>
+		<tr>
 			<td>为前端工程之崛起而编程</td>
 			<td>https://juejin.im/post/5c77eecbf265da2d8532f345</td>
 		</tr>
@@ -348,10 +352,6 @@ try {
 		<tr>
 			<td>Web前端导航</td>
 			<td>http://www.alloyteam.com/nav/</td>
-		</tr>
-		<tr>
-			<td>科学上网</td>
-			<td>https://segmentfault.com/a/1190000016911075</td>
 		</tr>
 		<tr>
 			<td>测试网址在各个地区的响应情况</td>

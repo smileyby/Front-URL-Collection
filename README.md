@@ -173,6 +173,14 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>在JavaScript的立即执行的具名函数A内修改A的值时到底发生了什么？</td>
+			<td>https://segmentfault.com/q/1010000002810093</td>
+		</tr>
+		<tr>
+			<td>数据结构和算法动态可视化 (Chinese)</td>
+			<td>https://visualgo.net/zh</td>
+		</tr>
+		<tr>
 			<td>货币自动格式化</td>
 			<td>http://autonumeric.org/examples/</td>
 		</tr>

@@ -5,6 +5,8 @@
 > **前端资源收集**本文搜集了有关于前端，但不局限于前端的资源链接，所有资源均来源于网路，为爱学习的小伙伴提供更多可以参考的学习资源，如有侵权或不妥之处，请提issue，将及时处理。
 >
 > **码上公益**：如果你在工作和学习之余仍然有闲暇时间，不妨加入阿里的-[码上公益](https://greencode.aliyun.com/)，用技术助力公益，让科技更有温度。
+> 
+> [Github实时趋势](https://git.news/) 
 
 -------------------
 
@@ -173,6 +175,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>前端开发者必备的Nginx知识</td>
+			<td>https://segmentfault.com/a/1190000018454271</td>
+		</tr>
+		<tr>
 			<td>在JavaScript的立即执行的具名函数A内修改A的值时到底发生了什么？</td>
 			<td>https://segmentfault.com/q/1010000002810093</td>
 		</tr>
@@ -260,10 +266,6 @@ try {
 <tr>
 			<td>基于Bulma的Vue.js的轻量级UI组件</td>
 			<td>https://buefy.org/</td>
-		</tr>
-		<tr>
-			<td>力荐35个最好用的Vue开源库！</td>
-			<td>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1&chksm=f951afc8ce2626de44424ecafe55377e4f04e7a7ba97bcefeab5b01257bdf6bf9a17f2828edf&scene=0&xtrack=1#rd</td>
 		</tr>
 		<tr>
 			<td>Vue.js 源码解析</td>
@@ -406,6 +408,14 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>深入理解 TypeScript</td>
+			<td>https://jkchao.github.io/typescript-book-chinese/</td>
+		</tr>
+		<tr>
+			<td>Chrome插件英雄榜</td>
+			<td>https://zhaoolee.gitbooks.io/chrome/content/</td>
+		</tr>
 		<tr>
 			<td>前端九部 - 入门者手册2019</td>
 			<td>https://www.yuque.com/fe9/basic</td>

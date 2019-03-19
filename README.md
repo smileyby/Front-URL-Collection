@@ -441,6 +441,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>比较 NPM 包的下载量</td>
+			<td>https://www.npmtrends.com/</td>
+		</tr>
+		<tr>
 			<td>Web前端导航</td>
 			<td>http://www.alloyteam.com/nav/</td>
 		</tr>

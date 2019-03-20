@@ -557,6 +557,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>声音整蛊</td>
+			<td>http://www.trolltimer.com/</td>
+		</tr>
+		<tr>
 			<td>为你设计公司logo的工具</td>
 			<td>https://mybrandnewlogo.com/logo-maker</td>
 		</tr>

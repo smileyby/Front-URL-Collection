@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>人人都能学会的 WordPress 实战课</td>
+			<td>https://www.easywpbook.com/</td>
+		</tr>
+		<tr>
 			<td>D2日报</td>
 			<td>https://daily.fairyever.com/</td>
 		</tr>

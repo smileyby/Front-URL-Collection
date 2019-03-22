@@ -564,6 +564,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>stegify 一款神奇的命令行工具，能将任意文件隐藏到图片里面</td>
+			<td>https://github.com/DimitarPetrov/stegify</td>
+		</tr>
+		<tr>
 			<td>声音整蛊</td>
 			<td>http://www.trolltimer.com/</td>
 		</tr>

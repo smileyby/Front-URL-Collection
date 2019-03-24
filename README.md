@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>北京大学课程资料整理</td>
+			<td>https://github.com/lib-pku/libpku</td>
+		</tr>
+		<tr>
 			<td>reng99-博客</td>
 			<td>https://github.com/reng99/blogs</td>
 		</tr>

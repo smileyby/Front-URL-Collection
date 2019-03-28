@@ -118,6 +118,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Scott- 年前端狗 2 年 CTO</td>
+			<td>https://juejin.im/post/5c99bd58f265da60ef6358be</td>
+		</tr>
+		<tr>
 			<td>前端专业方向的尽头</td>
 			<td>https://www.zhangxinxu.com/life/2019/03/fe-end/</td>
 		</tr>
@@ -575,6 +579,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>一个公益网站收录了 30 个濒临灭绝的小动物，利用了 HTML5 和 CSS 小片绘制了这些动物，网站配有纯音乐</td>
+			<td>http://www.species-in-pieces.com/#</td>
+		</tr>
 		<tr>
 			<td>stegify 一款神奇的命令行工具，能将任意文件隐藏到图片里面</td>
 			<td>https://github.com/DimitarPetrov/stegify</td>

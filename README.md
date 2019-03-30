@@ -122,6 +122,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>学不进去，没时间学怎么办？</td>
+			<td>https://www.zhangxinxu.com/life/2019/03/study/</td>
+		</tr>
+		<tr>
 			<td>Scott- 年前端狗 2 年 CTO</td>
 			<td>https://juejin.im/post/5c99bd58f265da60ef6358be</td>
 		</tr>
@@ -520,6 +524,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>reactjs-interview-questions 整理了 300 道 React 相关的面试题与回答</td>
+			<td>https://github.com/sudheerj/reactjs-interview-questions</td>
+		</tr>
 		<tr>
 			<td>前端开发者面试问题汇总整理</td>
 			<td>https://github.com/h5bp/Front-end-Developer-Interview-Questions/</td>

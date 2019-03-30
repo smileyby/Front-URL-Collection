@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>“Hello World”大全</td>
+			<td>https://netsmell.com/apps/helloworldcollection/</td>
+		</tr>
+		<tr>
 			<td>北京大学课程资料整理</td>
 			<td>https://github.com/lib-pku/libpku</td>
 		</tr>
@@ -579,6 +583,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>h5小游戏收录</td>
+			<td>https://likexia.gitee.io/game/index.html</td>
+		</tr>
 		<tr>
 			<td>一个公益网站收录了 30 个濒临灭绝的小动物，利用了 HTML5 和 CSS 小片绘制了这些动物，网站配有纯音乐</td>
 			<td>http://www.species-in-pieces.com/#</td>

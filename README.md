@@ -159,6 +159,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>2018年 JavaScript 明星项目</td>
+			<td>https://risingstars.js.org/2018/zh/</td>
+		</tr>
+		<tr>
 			<td>用Class写一个记住用户离开位置的js插件</td>
 			<td>https://segmentfault.com/a/1190000018569836?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&share_user=1030000000178452</td>
 		</tr>
@@ -286,6 +290,14 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>基于VUE实现的CSS效果</td>
+			<td>https://github.com/emilkowalski/css-effects-snippets</td>
+		</tr>
+		<tr>
+			<td>无版权SVG下载</td>
+			<td>https://gallery.manypixels.co/</td>
+		</tr>
 		<tr>
 			<td>纯 CSS 实现鼠标跟随效果</td>
 			<td>https://juejin.im/post/5c7f333ce51d4541e510cd6f</td>
@@ -591,6 +603,14 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>合成图片</td>
+			<td>http://photofunia.com/</td>
+		</tr>
+		<tr>
+			<td>根据原图配色，将图片转为用 emoji 填充的新图</td>
+			<td>https://github.com/ericandrewlewis/emoji-mosaic</td>
+		</tr>
 		<tr>
 			<td>h5小游戏收录</td>
 			<td>https://likexia.gitee.io/game/index.html</td>

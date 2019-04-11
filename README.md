@@ -159,6 +159,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>漢字標準格式印刷品般的汉字排版框架</td>
+			<td>https://github.com/ethantw/Han</td>
+		</tr>
+		<tr>
 			<td>2018年 JavaScript 明星项目</td>
 			<td>https://risingstars.js.org/2018/zh/</td>
 		</tr>
@@ -483,6 +487,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>在线截屏工具</td>
+			<td>https://screendump.techulus.com/</td>
+		</tr>
 		<tr>
 			<td>比较 NPM 包的下载量</td>
 			<td>https://www.npmtrends.com/</td>

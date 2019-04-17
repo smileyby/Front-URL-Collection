@@ -21,6 +21,14 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Git的奇技淫巧</td>
+			<td>https://github.com/521xueweihan/git-tips</td>
+		</tr>
+		<tr>
+			<td>深度学习理论与实战：提高篇</td>
+			<td>http://fancyerii.github.io/2019/03/14/dl-book/</td>
+		</tr>
+		<tr>
 			<td>Front-End Developer Handbook 2018</td>
 			<td>https://frontendmasters.com/books/front-end-handbook/2018/</td>
 		</tr>

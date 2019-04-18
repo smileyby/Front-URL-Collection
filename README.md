@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>言川的博客</td>
+			<td>https://github.com/lihongxun945/myblog</td>
+		</tr>
+		<tr>
 			<td>Git的奇技淫巧</td>
 			<td>https://github.com/521xueweihan/git-tips</td>
 		</tr>
@@ -560,6 +564,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>我在阿里做技术面试官的一些经验</td>
+			<td>https://github.com/lihongxun945/myblog/issues/40</td>
+		</tr>
 		<tr>
 			<td>reactjs-interview-questions 整理了 300 道 React 相关的面试题与回答</td>
 			<td>https://github.com/sudheerj/reactjs-interview-questions</td>

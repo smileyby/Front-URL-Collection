@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Phodal's Idea实战指南</td>
+			<td>http://ideabook.phodal.com/</td>
+		</tr>
+		<tr>
 			<td>言川的博客</td>
 			<td>https://github.com/lihongxun945/myblog</td>
 		</tr>
@@ -635,6 +639,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>vue+tone.js 在线弹钢琴</td>
+			<td>http://crystalworld.gitee.io/qpiano/#/</td>
+		</tr>
 		<tr>
 			<td>合成图片</td>
 			<td>http://photofunia.com/</td>

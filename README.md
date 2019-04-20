@@ -512,6 +512,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>MikuTools - 工具集合</td>
+			<td>https://miku.tools/</td>
+		</tr>
+		<tr>
 			<td>在线截屏工具</td>
 			<td>https://screendump.techulus.com/</td>
 		</tr>

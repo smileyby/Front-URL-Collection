@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>《The Way to Go》中文译本，中文正式名《Go 入门指南》</td>
+			<td>https://github.com/Unknwon/the-way-to-go_ZH_CN</td>
+		</tr>
+		<tr>
 			<td>Phodal's Idea实战指南</td>
 			<td>http://ideabook.phodal.com/</td>
 		</tr>

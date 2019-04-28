@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>Web安全学习笔记</td>
+			<td>https://websec.readthedocs.io/zh/latest/</td>
+		</tr>
+		<tr>
 			<td>《The Way to Go》中文译本，中文正式名《Go 入门指南》</td>
 			<td>https://github.com/Unknwon/the-way-to-go_ZH_CN</td>
 		</tr>
@@ -647,6 +651,10 @@ try {
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>在代码里玩贪吃蛇</td>
+			<td>https://github.com/taylorconor/quinesnake</td>
+		</tr>
 		<tr>
 			<td>vue+tone.js 在线弹钢琴</td>
 			<td>http://crystalworld.gitee.io/qpiano/#/</td>

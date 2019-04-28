@@ -21,6 +21,10 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td>一个非常生动的git教程</td>
+			<td>https://github.com/pcottle/learnGitBranching</td>
+		</tr>
+		<tr>
 			<td>Web安全学习笔记</td>
 			<td>https://websec.readthedocs.io/zh/latest/</td>
 		</tr>

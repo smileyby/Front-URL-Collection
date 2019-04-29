@@ -524,6 +524,10 @@ try {
 	</thead>
 	<tbody>
 		<tr>
+			<td>在线工具集合</td>
+			<td>https://tool.lu/</td>
+		</tr>
+		<tr>
 			<td>MikuTools - 工具集合</td>
 			<td>https://miku.tools/</td>
 		</tr>

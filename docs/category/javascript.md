@@ -9,6 +9,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>input表单格式化</td>
+      <td>https://github.com/nosir/cleave.js/</td>
+    </tr>
+    <tr>
       <td>看似简单却很晦涩的JS代码</td>
       <td>https://juejin.im/post/5cc55eb5e51d456e577f93f0</td>
     </tr>

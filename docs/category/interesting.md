@@ -9,6 +9,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>数星星</td>
+      <td>https://ruyihe.com/sxx</td>
+    </tr>
+    <tr>
       <td>在代码里玩贪吃蛇</td>
       <td>https://github.com/taylorconor/quinesnake</td>
     </tr>

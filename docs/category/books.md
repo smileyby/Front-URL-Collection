@@ -9,6 +9,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>写给不耐烦程序员的 JavaScript</td>
+      <td>https://github.com/apachecn/impatient-js-zh</td>
+    </tr>
+    <tr>
       <td>一个非常生动的git教程</td>
       <td>https://github.com/pcottle/learnGitBranching</td>
     </tr>

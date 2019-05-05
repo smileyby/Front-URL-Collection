@@ -9,6 +9,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>鲜亮的高饱和色彩，专注视觉的小程序组件库</td>
+      <td>https://github.com/weilanwl/ColorUI</td>
+    </tr>
+    <tr>
       <td>基于VUE实现的CSS效果</td>
       <td>https://github.com/emilkowalski/css-effects-snippets</td>
     </tr>

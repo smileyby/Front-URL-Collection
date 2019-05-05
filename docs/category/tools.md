@@ -60,5 +60,9 @@
       <td>在线图片压缩</td>
       <td>https://tinypng.com/</td>
     </tr>
+    <tr>
+      <td>在线翻译</td>
+      <td>https://i18ns.com/</td>
+    </tr>
   </tbody>
 </table>

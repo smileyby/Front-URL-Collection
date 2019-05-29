@@ -1,68 +1,26 @@
 ## 常用工具
 
-<table>
-  <thead>
-    <tr>
-      <th>描述</th>
-      <th>网址</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>在线工具集合</td>
-      <td>https://tool.lu/</td>
-    </tr>
-    <tr>
-      <td>MikuTools - 工具集合</td>
-      <td>https://miku.tools/</td>
-    </tr>
-    <tr>
-      <td>在线截屏工具</td>
-      <td>https://screendump.techulus.com/</td>
-    </tr>
-    <tr>
-      <td>比较 NPM 包的下载量</td>
-      <td>https://www.npmtrends.com/</td>
-    </tr>
-    <tr>
-      <td>Web前端导航</td>
-      <td>http://www.alloyteam.com/nav/</td>
-    </tr>
-    <tr>
-      <td>测试网址在各个地区的响应情况</td>
-      <td>https://www.17ce.com/</td>
-    </tr>
-    <tr>
-      <td>can i use</td>
-      <td>https://caniuse.com/</td>
-    </tr>
-    <tr>
-      <td>百度统计</td>
-      <td>http://tongji.baidu.com/data/browser</td>
-    </tr>
-    <tr>
-      <td>CSS, JavaScript 压缩, 美化, 加密, 解密</td>
-      <td>https://tool.css-js.com/</td>
-    </tr>
-    <tr>
-      <td>JSON格式化</td>
-      <td>https://www.json.cn/</td>
-    </tr>
-    <tr>
-      <td>网站在线分析</td>
-      <td>https://sonarwhal.com/scanner</td>
-    </tr>
-    <tr>
-      <td>在线生成NPM徽标链接</td>
-      <td>https://woolson.github.io/npmer-page/</td>
-    </tr>
-    <tr>
-      <td>在线图片压缩</td>
-      <td>https://tinypng.com/</td>
-    </tr>
-    <tr>
-      <td>在线翻译</td>
-      <td>https://i18ns.com/</td>
-    </tr>
-  </tbody>
-</table>
+收集一些常用小工具，为日常工作助力
+
+* [在线工具集合](https://tool.lu/)
+* [MikuTools - 工具集合](https://miku.tools/)
+* [在线截屏工具](https://screendump.techulus.com/)
+* [比较 NPM 包的下载量](https://www.npmtrends.com/)
+* [Web前端导航](http://www.alloyteam.com/nav/)
+* [测试网址在各个地区的响应情况](https://www.17ce.com/)
+* [can i use](https://caniuse.com/)
+* [百度统计](http://tongji.baidu.com/data/browser)
+* [CSS, JavaScript 压缩, 美化, 加密, 解密](https://tool.css-js.com/)
+* [JSON格式化](https://www.json.cn/)
+* [网站在线分析](https://sonarwhal.com/scanner)
+* [在线生成NPM徽标链接](https://woolson.github.io/npmer-page/)
+* [在线图片压缩](https://tinypng.com/)
+* [在线翻译](https://i18ns.com/)
+* [使用Markdown实现幻灯片](https://github.com/hiroppy/fusuma)
+* [有个 IE 真爱粉，做了一个下载网站，从 IE 1 到 IE 11，再到 Edge](https://www.my-internet-explorer.com/)
+* [一个稳定聚合Api接口源（免费）](https://github.com/MZCretin/RollToolsApi)
+* [一个工具箱 - 好用的在线工具都在这里！](http://www.atoolbox.net/)
+* [kindle电子书分享网](https://kindle.51nazhun.pub/)
+* [可运行代码段和 API 的在线工具](https://glot.io/)
+* [这个网站上面收集了大量高质量的前端相关资源，其中包含前端学习资源、文档 API、模板插件、工具等内容](http://nav.web-hub.cn/)
+* [全自动抠图](https://www.remove.bg/)

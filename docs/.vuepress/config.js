@@ -5,17 +5,17 @@ module.exports = {
   "themeConfig": {
     "sidebar": {
       '/category/': [
-        '',     
+        '',   
+        'books',   
         'javascript',
         'css',
-        'vue',
-        'react',
         'nodejs',
         'mobile',
         'error',
+        'vue',
+        'react',
         'aboutcoder',
         'interview',
-        'books',  
         'tools',
         'ui',
         'interesting'

@@ -1,5 +1,7 @@
 ## 错误处理 
 
+收集一些关于JS错误处理的内容，遇到报错不要慌，百度谷歌stackoverflow，还有祈祷
+
 ```javascript
 console.log([
   "                   _ooOoo_",

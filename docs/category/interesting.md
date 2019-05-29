@@ -1,80 +1,28 @@
 ## 趣味网址
 
-<table>
-  <thead>
-    <tr>
-      <th>描述</th>
-      <th>网址</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>数星星</td>
-      <td>https://ruyihe.com/sxx</td>
-    </tr>
-    <tr>
-      <td>在代码里玩贪吃蛇</td>
-      <td>https://github.com/taylorconor/quinesnake</td>
-    </tr>
-    <tr>
-      <td>vue+tone.js 在线弹钢琴</td>
-      <td>http://crystalworld.gitee.io/qpiano/#/</td>
-    </tr>
-    <tr>
-      <td>合成图片</td>
-      <td>http://photofunia.com/</td>
-    </tr>
-    <tr>
-      <td>根据原图配色，将图片转为用 emoji 填充的新图</td>
-      <td>https://github.com/ericandrewlewis/emoji-mosaic</td>
-    </tr>
-    <tr>
-      <td>h5小游戏收录</td>
-      <td>https://likexia.gitee.io/game/index.html</td>
-    </tr>
-    <tr>
-      <td>一个公益网站收录了 30 个濒临灭绝的小动物，利用了 HTML5 和 CSS 小片绘制了这些动物，网站配有纯音乐</td>
-      <td>http://www.species-in-pieces.com/#</td>
-    </tr>
-    <tr>
-      <td>stegify 一款神奇的命令行工具，能将任意文件隐藏到图片里面</td>
-      <td>https://github.com/DimitarPetrov/stegify</td>
-    </tr>
-    <tr>
-      <td>声音整蛊</td>
-      <td>http://www.trolltimer.com/</td>
-    </tr>
-    <tr>
-      <td>为你设计公司logo的工具</td>
-      <td>https://mybrandnewlogo.com/logo-maker</td>
-    </tr>
-    <tr>
-      <td>我在 GitHub 上都见过哪些沙雕项目？</td>
-      <td>https://zhuanlan.zhihu.com/p/58404875</td>
-    </tr>
-    <tr>
-      <td>将网址转成emoji</td>
-      <td>https://e.mezw.com/</td>
-    </tr>
-    <tr>
-      <td>基于 React 的经典坦克大战</td>
-      <td>https://github.com/shinima/battle-city</td>
-    </tr>
-    <tr>
-      <td>京东H5案例</td>
-      <td>https://cases.aotu.io/index.html</td>
-    </tr>
-    <tr>
-      <td>简历模板</td>
-      <td>http://elevenbeans.me/</td>
-    </tr>
-    <tr>
-      <td>游戏</td>
-      <td>http://k.swao.cn/js/web/game/t_01/level_01/step1.html</td>
-    </tr>
-    <tr>
-      <td>会唱歌的图片</td>
-      <td>http://nodtotherhythm.com/make</td>
-    </tr>
-  </tbody>
-</table>
+在繁忙的工作中少不了那些开胃小菜，来放松心情
+
+* [日式冷吐槽](http://lengtucao.fun/)
+* [数星星](https://ruyihe.com/sxx)
+* [在代码里玩贪吃蛇](https://github.com/taylorconor/quinesnake)
+* [vue+tone.js 在线弹钢琴](http://crystalworld.gitee.io/qpiano/#/)
+* [合成图片](http://photofunia.com/)
+* [根据原图配色，将图片转为用 emoji 填充的新图](https://github.com/ericandrewlewis/emoji-mosaic)
+* [h5小游戏收录](https://likexia.gitee.io/game/index.html)
+* [一个公益网站收录了 30 个濒临灭绝的小动物，利用了 HTML5 和 CSS 小片绘制了这些动物，网站配有纯音乐](http://www.species-in-pieces.com/#)
+* [stegify 一款神奇的命令行工具，能将任意文件隐藏到图片里面](https://github.com/DimitarPetrov/stegify)
+* [声音整蛊](http://www.trolltimer.com/)
+* [为你设计公司logo的工具](https://mybrandnewlogo.com/logo-maker)
+* [我在 GitHub 上都见过哪些沙雕项目？](https://zhuanlan.zhihu.com/p/58404875)
+* [将网址转成emoji](https://e.mezw.com/)
+* [基于 React 的经典坦克大战](https://github.com/shinima/battle-city)
+* [京东H5案例](https://cases.aotu.io/index.html)
+* [简历模板](http://elevenbeans.me/)
+* [游戏](http://k.swao.cn/js/web/game/t_01/level_01/step1.html)
+* [会唱歌的图片](http://nodtotherhythm.com/make)
+* [毒鸡汤](http://www.nows.fun/)
+* [追剧](http://mv.v5ant.com/)
+* [壁纸](https://alpha.wallhaven.cc/)
+* [小游戏](http://loderunnerwebgame.com/game/)
+* [Global Rich List 查看你的薪资在全世界排名](www.globalrichlist.com)
+* [一个收集了非常多 App Store 介绍图案例的网站，包括美食、音乐、新闻等 17 个分类，给你设计带来灵感](https://scrnshts.club/)

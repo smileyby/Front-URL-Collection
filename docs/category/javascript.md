@@ -1,108 +1,39 @@
 ## JavaScript
 
-<table>
-  <thead>
-    <tr>
-      <th>描述</th>
-      <th>网址</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>input表单格式化</td>
-      <td>https://github.com/nosir/cleave.js/</td>
-    </tr>
-    <tr>
-      <td>看似简单却很晦涩的JS代码</td>
-      <td>https://juejin.im/post/5cc55eb5e51d456e577f93f0</td>
-    </tr>
-    <tr>
-      <td>漢字標準格式印刷品般的汉字排版框架</td>
-      <td>https://github.com/ethantw/Han</td>
-    </tr>
-    <tr>
-      <td>2018年 JavaScript 明星项目</td>
-      <td>https://risingstars.js.org/2018/zh/</td>
-    </tr>
-    <tr>
-      <td>用Class写一个记住用户离开位置的js插件</td>
-      <td>https://segmentfault.com/a/1190000018569836?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&share_user=1030000000178452</td>
-    </tr>
-    <tr>
-      <td>前端开发者必备的Nginx知识</td>
-      <td>https://segmentfault.com/a/1190000018454271</td>
-    </tr>
-    <tr>
-      <td>在JavaScript的立即执行的具名函数A内修改A的值时到底发生了什么？</td>
-      <td>https://segmentfault.com/q/1010000002810093</td>
-    </tr>
-    <tr>
-      <td>数据结构和算法动态可视化 (Chinese)</td>
-      <td>https://visualgo.net/zh</td>
-    </tr>
-    <tr>
-      <td>货币自动格式化</td>
-      <td>http://autonumeric.org/examples/</td>
-    </tr>
-    <tr>
-      <td>格式化input输入数据</td>
-      <td>https://github.com/nosir/cleave.js/</td>
-    </tr>
-    <tr>
-      <td>使用document.scrollingElement控制窗体滚动高度</td>
-      <td>https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/</td>
-    </tr>
-    <tr>
-      <td>javascript-tutorial-en 一份开源的 JavaScript 教程</td>
-      <td>https://javascript.info/</td>
-    </tr>
-    <tr>
-      <td>H5 键盘兼容性小结</td>
-      <td>https://juejin.im/post/5c6d1c8b6fb9a049de6df441</td>
-    </tr>
-    <tr>
-      <td>JavaScript深入系列、JavaScript专题系列 博客</td>
-      <td>https://github.com/mqyqingfeng/Blog</td>
-    </tr>
-    <tr>
-      <td>你不知道的Chrome调试工具技巧</td>
-      <td>https://juejin.im/post/5c09a80151882521c81168a2</td>
-    </tr>
-    <tr>
-      <td>有哪些短小却令人惊叹的 JavaScript 代码？</td>
-      <td>https://www.zhihu.com/question/46943112</td>
-    </tr>
-    <tr>
-      <td>翻书效果</td>
-      <td>http://www.turnjs.com/</td>
-    </tr>
-    <tr>
-      <td>天气效果</td>
-      <td>https://rainbowhunt.me/</td>
-    </tr>
-    <tr>
-      <td>汉字拼音转换工具</td>
-      <td>https://hotoo.github.io/pinyin/</td>
-    </tr>
-    <tr>
-      <td>精致的下拉刷新和上拉加载</td>
-      <td>https://github.com/mescroll/mescroll</td>
-    </tr>
-    <tr>
-      <td>一组匹配中国大陆手机号码的正则表达式</td>
-      <td>https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md</td>
-    </tr>
-    <tr>
-      <td>你可能不知道的前端知识点</td>
-      <td>https://github.com/justjavac/the-front-end-knowledge-you-may-not-know/issues</td>
-    </tr>
-    <tr>
-      <td>常用代码收集资源分享</td>
-      <td>https://github.com/jsfront/src</td>
-    </tr>
-    <tr>
-      <td>轻量级搜索</td>
-      <td>https://github.com/krisk/fuse</td>
-    </tr>
-  </tbody>
-</table>
+收集一些好用的，小巧的，奇奇怪怪的JS插件、代码片段等一些相关小知识
+
+* [基于ES6轮播](https://glidejs.com/)
+* [一个实现汉字与拼音互转的小巧web工具库](http://demo.haoji.me/pinyinjs/)
+* [input表单格式化](https://github.com/nosir/cleave.js/)
+* [看似简单却很晦涩的JS代码](https://juejin.im/post/5cc55eb5e51d456e577f93f0)
+* [漢字標準格式印刷品般的汉字排版框架](https://github.com/ethantw/Han)
+* [2018年 JavaScript 明星项目](https://risingstars.js.org/2018/zh/)
+* [用Class写一个记住用户离开位置的js插件](https://segmentfault.com/a/1190000018569836?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&share_user=1030000000178452)
+* [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
+* [在JavaScript的立即执行的具名函数A内修改A的值时到底发生了什么？](https://segmentfault.com/q/1010000002810093)
+* [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
+* [货币自动格式化](http://autonumeric.org/examples/)
+* [格式化input输入数据](https://github.com/nosir/cleave.js/)
+* [使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/)
+* [javascript-tutorial-en 一份开源的 JavaScript 教程](https://javascript.info/)
+* [H5 键盘兼容性小结](https://juejin.im/post/5c6d1c8b6fb9a049de6df441)
+* [JavaScript深入系列、JavaScript专题系列 博客](https://github.com/mqyqingfeng/Blog)
+* [你不知道的Chrome调试工具技巧](https://juejin.im/post/5c09a80151882521c81168a2)
+* [有哪些短小却令人惊叹的 JavaScript 代码？](https://www.zhihu.com/question/46943112)
+* [翻书效果](http://www.turnjs.com/)
+* [天气效果](https://rainbowhunt.me/)
+* [汉字拼音转换工具](https://hotoo.github.io/pinyin/)
+* [精致的下拉刷新和上拉加载](https://github.com/mescroll/mescroll)
+* [一组匹配中国大陆手机号码的正则表达式](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex/blob/master/README-CN.md)
+* [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know/issues)
+* [常用代码收集资源分享](https://github.com/jsfront/src)
+* [轻量级搜索](https://github.com/krisk/fuse)
+* [【译】前端练级攻略](https://juejin.im/post/5cd4cbe2518825408b33e9c5)
+* [数字动画组件](https://github.com/alikinvv/stepper)
+* [What's New in JavaScript](https://segmentfault.com/a/1190000019147365)
+* [HTMLruby标签-被用来展示东亚文字注音或字符注释。](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby)
+* [小火箭](https://codepen.io/hexagoncircle/full/joqYEj)
+* [汉子笔画动画](https://github.com/chanind/hanzi-writer)
+* [grade.js 可以获取图像的2种主色并生成互补渐变的背景，类似于豆瓣 APP 电影详情页的背景色](https://github.com/benhowdle89/grade)
+* [Play with fluids in your browser (works even on mobile)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+* [可以将字母、数字、转换为奇怪的字体样式](https://github.com/beizhedenglong/weird-fonts)

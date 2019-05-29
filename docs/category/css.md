@@ -1,100 +1,28 @@
 ## CSS
 
-<table>
-  <thead>
-    <tr>
-      <th>描述</th>
-      <th>网址</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>鲜亮的高饱和色彩，专注视觉的小程序组件库</td>
-      <td>https://github.com/weilanwl/ColorUI</td>
-    </tr>
-    <tr>
-      <td>基于VUE实现的CSS效果</td>
-      <td>https://github.com/emilkowalski/css-effects-snippets</td>
-    </tr>
-    <tr>
-      <td>无版权SVG下载</td>
-      <td>https://gallery.manypixels.co/</td>
-    </tr>
-    <tr>
-      <td>纯 CSS 实现鼠标跟随效果</td>
-      <td>https://juejin.im/post/5c7f333ce51d4541e510cd6f</td>
-    </tr>
-    <tr>
-      <td>一套基于 Bootstrap 4 免费开源的 Dashboard 模版</td>
-      <td>https://github.com/tabler/tabler</td>
-    </tr>
-    <tr>
-      <td>网易的NEC(Nice Easy CSS)代码库</td>
-      <td>http://nec.netease.com/library</td>
-    </tr>
-    <tr>
-      <td>30S或更短时间就可以学会的CSS</td>
-      <td>https://30-seconds.github.io/30-seconds-of-css/</td>
-    </tr>
-    <tr>
-      <td>Animate.css</td>
-      <td>https://daneden.github.io/animate.css/</td>
-    </tr>
-    <tr>
-      <td>HTML和CSS的规范和结构</td>
-      <td>http://codeguide.co/</td>
-    </tr>
-    <tr>
-      <td>CSS-loading-1</td>
-      <td>https://epic-spinners.epicmax.co/#/</td>
-    </tr>
-    <tr>
-      <td>CSS-loading-2</td>
-      <td>https://loading.io/spinner/</td>
-    </tr>
-    <tr>
-      <td>CSS-图片色彩过滤</td>
-      <td>https://picturepan2.github.io/instagram.css/</td>
-    </tr>
-    <tr>
-      <td>CSS-动画-1</td>
-      <td>http://animista.net/</td>
-    </tr>
-    <tr>
-      <td>CSS-动画-2</td>
-      <td>https://github.com/Martz90/vivify</td>
-    </tr>
-    <tr>
-      <td>CSS-浏览器前缀自动补全</td>
-      <td>http://pleeease.io/play/</td>
-    </tr>
-    <tr>
-      <td>CSS-奇技淫巧</td>
-      <td>https://github.com/chokcoco/iCSS</td>
-    </tr>
-    <tr>
-      <td>CSS-文本溢出显示省略号</td>
-      <td>https://www.cnblogs.com/yzg1/p/5089534.html</td>
-    </tr>
-    <tr>
-      <td>CSS Inspiration -- CSS灵感</td>
-      <td>https://chokcoco.github.io/CSS-Inspiration/#/</td>
-    </tr>
-    <tr>
-      <td>CSS魔法</td>
-      <td>https://github.com/cssmagic/blog</td>
-    </tr>
-    <tr>
-      <td>rem与px的转换</td>
-      <td>http://caibaojian.com/rem-and-px.html</td>
-    </tr>
-    <tr>
-      <td>CSS-色彩搭配</td>
-      <td>https://palx.jxnblk.com/</td>
-    </tr>
-    <tr>
-      <td>CSS-图形介绍</td>
-      <td>https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/</td>
-    </tr>
-  </tbody>
-</table>
+收集一些UI库，动画库，CSS规范，等等CSS相关内容
+
+* [展示 CSS 各种不同特性成为标准的进度和状态](https://cssdb.org/)
+* [鲜亮的高饱和色彩，专注视觉的小程序组件库](https://github.com/weilanwl/ColorUI)
+* [基于VUE实现的CSS效果](https://github.com/emilkowalski/css-effects-snippets)
+* [无版权SVG下载](https://gallery.manypixels.co/)
+* [纯 CSS 实现鼠标跟随效果](https://juejin.im/post/5c7f333ce51d4541e510cd6f)
+* [一套基于 Bootstrap 4 免费开源的 Dashboard 模版](https://github.com/tabler/tabler)
+* [网易的NEC(Nice Easy CSS)代码库](http://nec.netease.com/library)
+* [30S或更短时间就可以学会的CSS](https://30-seconds.github.io/30-seconds-of-css/)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [HTML和CSS的规范和结构](http://codeguide.co/)
+* [CSS-loading-1](https://epic-spinners.epicmax.co/#/)
+* [CSS-loading-2](https://loading.io/spinner/)
+* [CSS-图片色彩过滤](https://picturepan2.github.io/instagram.css/)
+* [CSS-动画-1](http://animista.net/)
+* [CSS-动画-2](https://github.com/Martz90/vivify)
+* [CSS-浏览器前缀自动补全](http://pleeease.io/play/)
+* [CSS-奇技淫巧](https://github.com/chokcoco/iCSS)
+* [CSS-文本溢出显示省略号](https://www.cnblogs.com/yzg1/p/5089534.html)
+* [CSS Inspiration -- CSS灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
+* [CSS魔法](https://github.com/cssmagic/blog)
+* [rem与px的转换](http://caibaojian.com/rem-and-px.html)
+* [CSS-色彩搭配](https://palx.jxnblk.com/)
+* [CSS-图形介绍](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
+* [推荐一套开源图标库](https://remixicon.com/)

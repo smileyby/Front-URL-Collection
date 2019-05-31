@@ -24,3 +24,6 @@
 * [可运行代码段和 API 的在线工具](https://glot.io/)
 * [这个网站上面收集了大量高质量的前端相关资源，其中包含前端学习资源、文档 API、模板插件、工具等内容](http://nav.web-hub.cn/)
 * [全自动抠图](https://www.remove.bg/)
+* [网页截屏工具](https://screendump.techulus.com/)
+* [一款桌面端下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://motrix.app/zh-CN/)
+* [一个静态博客写作客户端](https://gridea.dev/)

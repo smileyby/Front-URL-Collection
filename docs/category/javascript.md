@@ -37,3 +37,6 @@
 * [grade.js 可以获取图像的2种主色并生成互补渐变的背景，类似于豆瓣 APP 电影详情页的背景色](https://github.com/benhowdle89/grade)
 * [Play with fluids in your browser (works even on mobile)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 * [可以将字母、数字、转换为奇怪的字体样式](https://github.com/beizhedenglong/weird-fonts)
+* [一个可以360度旋转观看图片的 JS 库，用于在网页上展示商品](https://github.com/scaleflex/js-cloudimage-360-view)
+* [纯前端验证码](https://github.com/Hibear/verify)
+* [视差滚动](https://github.com/geosigno/simpleParallax)

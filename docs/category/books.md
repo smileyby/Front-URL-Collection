@@ -18,6 +18,7 @@
   * [fouber-个人博客](https://github.com/fouber/blog)
   * [ljianshu-个人博客](https://github.com/ljianshu/Blog)
   * [木易杨-个人博客（每周重点攻克一个前端面试重难点）](https://github.com/yygmind/blog)
+  * [love2-博客](https://love2.io/)
 
 * 手册
   * [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集](https://github.com/jaywcjlove/linux-command)
@@ -43,6 +44,7 @@
   * [一步一步带你发现各种各样的安全漏洞](https://www.hacksplaining.com/lessons)
   * [IT技术书籍，不间断更新中](https://github.com/TIM168/technical_books)
   * [Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题](https://github.com/developer-learning/reading-go)
+  * [语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)
 
 * 其他
   * [github创意项目](https://github.com/zhaoolee/StarsAndClown)
@@ -51,5 +53,6 @@
   * [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
   * [FDCon2019  会后资料下载](https://shimo.im/docs/VXEZSWMLxlw4XB2M/read)
   * [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
+  * [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
 
 

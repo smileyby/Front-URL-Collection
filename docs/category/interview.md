@@ -15,3 +15,5 @@
 * [前端面试3+1](https://github.com/haizlin/fe-interview)
 * [面试官系列](https://juejin.im/post/5abb55ee6fb9a028e33b7e0a)
 * [2019 前端面试 | 知其然，并知其所以然](https://juejin.im/post/5ce4171ff265da1bd04eb4f3)
+* [分享最新BAT面试题(包含机器学习,Linux,PHP,大数据,Python,Java,前端...)](https://github.com/lengyue1024/BAT_interviews)
+* [简历在线生成](https://zety.com/)

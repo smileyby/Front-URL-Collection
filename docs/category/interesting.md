@@ -28,3 +28,4 @@
 * [一个收集了非常多 App Store 介绍图案例的网站，包括美食、音乐、新闻等 17 个分类，给你设计带来灵感](https://scrnshts.club/)
 * [免费视频站](https://coverr.co/)
 * [一个用JS写的类似切水果的游戏，画面流畅，大小只有8kb](https://codepen.io/MillerTime/full/BexBbE)
+* [日常休闲](http://magickeyboard.io/)

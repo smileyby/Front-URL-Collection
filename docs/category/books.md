@@ -19,6 +19,7 @@
   * [ljianshu-个人博客](https://github.com/ljianshu/Blog)
   * [木易杨-个人博客（每周重点攻克一个前端面试重难点）](https://github.com/yygmind/blog)
   * [love2-博客](https://love2.io/)
+  * [xiaozhi博客](https://github.com/qq449245884/xiaozhi)
 
 * 手册
   * [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集](https://github.com/jaywcjlove/linux-command)

@@ -25,6 +25,7 @@
   * [“Hello World”大全](https://netsmell.com/apps/helloworldcollection/)
   * [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)
   * [git使用手册](https://gitee.com/progit/)
+  * [在线可视化算法](https://algorithm-visualizer.org/)
 
 * 在线书籍 
   * [flutter 实战](https://book.flutterchina.club/)
@@ -45,6 +46,7 @@
   * [IT技术书籍，不间断更新中](https://github.com/TIM168/technical_books)
   * [Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题](https://github.com/developer-learning/reading-go)
   * [语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)
+  * [机器学习基础](https://mitpress.ublish.com/ereader/7093/?preview=#page/1)
 
 * 其他
   * [github创意项目](https://github.com/zhaoolee/StarsAndClown)

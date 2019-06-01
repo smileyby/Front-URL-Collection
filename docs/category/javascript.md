@@ -41,3 +41,4 @@
 * [纯前端验证码](https://github.com/Hibear/verify)
 * [视差滚动](https://github.com/geosigno/simpleParallax)
 * [JavaScript：十大排序的算法思路和代码实现](https://segmentfault.com/a/1190000019304443)
+* [你本可以少写些 if-else](https://juejin.im/post/5cead18df265da1bc552405b)

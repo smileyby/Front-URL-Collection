@@ -40,3 +40,4 @@
 * [一个可以360度旋转观看图片的 JS 库，用于在网页上展示商品](https://github.com/scaleflex/js-cloudimage-360-view)
 * [纯前端验证码](https://github.com/Hibear/verify)
 * [视差滚动](https://github.com/geosigno/simpleParallax)
+* [JavaScript：十大排序的算法思路和代码实现](https://segmentfault.com/a/1190000019304443)

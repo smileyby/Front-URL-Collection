@@ -48,6 +48,7 @@
   * [Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题](https://github.com/developer-learning/reading-go)
   * [语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)
   * [机器学习基础](https://mitpress.ublish.com/ereader/7093/?preview=#page/1)
+  * [一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》](https://github.com/hustcc/JS-Sorting-Algorithm)
 
 * 其他
   * [github创意项目](https://github.com/zhaoolee/StarsAndClown)

@@ -29,3 +29,4 @@
 * [一个静态博客写作客户端](https://gridea.dev/)
 * [免费天气小插件](http://www.tianqi.com/dingzhi/)
 * [汉典-古籍诗词在线查看](https://www.zdic.net/)
+* [专利检索](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)

@@ -19,3 +19,4 @@
 * [简历在线生成](https://zety.com/)
 * [不要这样写简历](https://segmentfault.com/a/1190000019354245)
 * [前端面试](https://segmentfault.com/a/1190000019348191)
+* [[译]送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)

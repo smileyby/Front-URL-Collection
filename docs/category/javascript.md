@@ -43,3 +43,4 @@
 * [JavaScript：十大排序的算法思路和代码实现](https://segmentfault.com/a/1190000019304443)
 * [你本可以少写些 if-else](https://juejin.im/post/5cead18df265da1bc552405b)
 * [那些年，我们一起踩过的坑](https://juejin.im/post/5ce6b91af265da1b860860f9)
+* [生动形象解释forEach、filter、map、some、every、find、findIndex、reduce间的区别](https://juejin.im/post/5d08467fe51d451063431814)

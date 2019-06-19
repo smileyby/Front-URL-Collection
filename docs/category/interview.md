@@ -20,3 +20,4 @@
 * [不要这样写简历](https://segmentfault.com/a/1190000019354245)
 * [前端面试](https://segmentfault.com/a/1190000019348191)
 * [[译]送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+* [JavaScript数据类型面试题解析](https://juejin.im/post/5d030e03518825361817032f)

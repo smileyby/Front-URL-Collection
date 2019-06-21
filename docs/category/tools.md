@@ -32,3 +32,4 @@
 * [专利检索](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)
 * [命令行直接打开url地址](https://github.com/wfxr/tmux-fzf-url)
 * [将 Markdown 文件转成幻灯片的工具](https://github.com/hiroppy/fusuma)
+* [黑白图片自动上色工具](https://colorize.cc/)

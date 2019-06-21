@@ -30,3 +30,4 @@
 * [免费天气小插件](http://www.tianqi.com/dingzhi/)
 * [汉典-古籍诗词在线查看](https://www.zdic.net/)
 * [专利检索](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)
+* [命令行直接打开url地址](https://github.com/wfxr/tmux-fzf-url)

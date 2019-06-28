@@ -8,6 +8,7 @@
   * [HelloGitHub](https://gitbook.hellogithub.com/)
   * [每日时报](https://wubaiqing.github.io/zaobao/)
   * [阮一峰-技术分享周刊，每周五发布](https://github.com/ruanyf/weekly)
+  * [Web动画周报-第一期](https://juejin.im/post/5d14bcc46fb9a07f0052ecdf)
 
 * 博客
   * [言川的博客](https://github.com/lihongxun945/myblog)

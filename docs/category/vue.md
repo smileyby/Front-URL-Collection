@@ -10,3 +10,4 @@
 * [vue组件库-vuetify](https://github.com/vuetifyjs/vuetify)
 * [vue组件库-iview](https://github.com/iview/iview)
 * [vue组件库-element](https://github.com/ElemeFE/element)
+* [一个集成了下拉刷新、上拉加载、无限滚动加载的Vue组件](https://github.com/stackjie/vue-pull-to/blob/master/README.zh-CN.md)

@@ -34,3 +34,4 @@
 * [将 Markdown 文件转成幻灯片的工具](https://github.com/hiroppy/fusuma)
 * [黑白图片自动上色工具](https://colorize.cc/)
 * [吐槽-反馈平台](https://tucao.qq.com/)
+* [mozilla 开源文件分享工具-支持加密和设置有效期](https://github.com/mozilla/send)

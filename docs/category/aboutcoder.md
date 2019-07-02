@@ -12,3 +12,4 @@
 * [25 岁，毕业写前端的这三年](https://juejin.im/post/5cd8c361f265da03a33c5521)
 * [程序员画像，十年沉浮](https://juejin.im/post/5cda10f9f265da0368147cc8#heading-28)
 * [自由职业一时爽，一直自由一直爽](https://juejin.im/post/5cdb65a4e51d456e781f20dd)
+* [infoQ-阿里前端委员会主席圆心：前端路上的思考](https://www.infoq.cn/article/bLJfJg5_Eq2yOlW5VBaP)

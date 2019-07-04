@@ -52,6 +52,7 @@
   * [机器学习基础](https://mitpress.ublish.com/ereader/7093/?preview=#page/1)
   * [一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》](https://github.com/hustcc/JS-Sorting-Algorithm)
   * [前端架构：从入门到微前端](https://github.com/phodal/aofe.images)
+  * [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
 
 * 其他
   * [github创意项目](https://github.com/zhaoolee/StarsAndClown)

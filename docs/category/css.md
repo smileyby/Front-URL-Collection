@@ -31,3 +31,4 @@
 * [该网站收集各种 CSS 特效，可以复制粘贴到自己的项目](https://cssfx.dev/)
 * [CSS速查表](http://code.ciaoca.com/style/css-cheat-sheet/)
 * [2019CSS盘点](https://2019.stateofcss.com/)
+* [具有手绘效果的 CSS 组件库](https://github.com/papercss/papercss)

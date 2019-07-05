@@ -5,4 +5,4 @@
 
 项目地址：https://smileyby.github.io/Front-URL-Collection/category/books.html
 预览图：
-![前端资源收集](https://s2.ax1x.com/2019/05/07/Er47jJ.png)
+![前端资源收集](https://s2.ax1x.com/2019/07/05/ZaogHI.png)

@@ -63,5 +63,6 @@
   * [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
   * [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
   * [好奇心日报备份](https://github.com/LampScript/qdaily_backup)
+  * [李永乐老师科普和教学视频](https://media.weibo.cn/article?id=2309404390802737463547)
 
 

@@ -35,3 +35,4 @@
 * [一个像素风图形生成器](https://www.pixelartcss.com/)
 * [github支持的表情符号](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * [中国表情包大集合](https://github.com/zhaoolee/ChineseBQB)
+* [图解HTTP状态码](https://http.cat/)

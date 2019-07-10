@@ -6,3 +6,4 @@
 * **D2日报**: [@fairyever-D2日报](https://daily.fairyever.com/)
 * **上班摸鱼**: [@juejin-掘金-沸点](https://juejin.im/pins/recommended)
 * **前端小测**: [@zhangxinxu-quiz](https://github.com/zhangxinxu/quiz)
+* **每日一题**: [@azl397985856/leetcode](https://github.com/azl397985856/leetcode/blob/master/daily/2019-07-08.md)

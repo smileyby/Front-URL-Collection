@@ -29,6 +29,7 @@
   * [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)
   * [git使用手册](https://gitee.com/progit/)
   * [在线可视化算法](https://algorithm-visualizer.org/)
+  * [Standard ECMA-262 5.1 Edition / June 2011](http://ecma-international.org/ecma-262/5.1/)
 
 * 在线书籍 
   * [flutter 实战](https://book.flutterchina.club/)

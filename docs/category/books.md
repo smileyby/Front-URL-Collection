@@ -55,6 +55,7 @@
   * [前端架构：从入门到微前端](https://github.com/phodal/aofe.images)
   * [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)
   * [Go语言四十二章经](https://github.com/ffhelicopter/Go42)
+  * [flutter实战](https://book.flutterchina.club/)
 
 * 其他
   * [github创意项目](https://github.com/zhaoolee/StarsAndClown)

@@ -23,3 +23,4 @@
 * [JavaScript数据类型面试题解析](https://juejin.im/post/5d030e03518825361817032f)
 * [2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总](https://github.com/0voice/interview_internal_reference)
 * [前端知识点汇总——面试看这一篇就够了](https://juejin.im/post/5d06fbc2e51d45106b15ff1f)
+* [大前端面试宝典](https://lucifer.ren/fe-interview/#/)

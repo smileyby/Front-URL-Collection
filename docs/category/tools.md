@@ -41,3 +41,4 @@
 * [图片在线加水印](https://watermarkly.com/)
 * [查询用户名是否被注册](https://github.com/thelinuxchoice/userrecon)
 * [程序员开发工具聚合](https://www.toolfk.com/)
+* [在线生成logo](https://www.logosc.cn/v)

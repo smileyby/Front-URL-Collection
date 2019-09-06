@@ -47,3 +47,4 @@
 * [JS 库可以从图像提取两种主要颜色，然后生成渐变色背景](https://github.com/benhowdle89/grade)
 * [JS 轻量级模糊搜索库](https://fusejs.io/)
 * [转-为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
+* [ Javascript颜色转换和操作库](https://github.com/Qix-/color)

@@ -9,7 +9,7 @@
 * [Web前端导航](http://www.alloyteam.com/nav/)
 * [测试网址在各个地区的响应情况](https://www.17ce.com/)
 * [can i use](https://caniuse.com/)
-* [百度统计](http://tongji.baidu.com/data/browser)
+* [百90度统计](http://tongji.baidu.com/data/browser)
 * [CSS, JavaScript 压缩, 美化, 加密, 解密](https://tool.css-js.com/)
 * [JSON格式化](https://www.json.cn/)
 * [网站在线分析](https://sonarwhal.com/scanner)
@@ -42,3 +42,4 @@
 * [查询用户名是否被注册](https://github.com/thelinuxchoice/userrecon)
 * [程序员开发工具聚合](https://www.toolfk.com/)
 * [在线生成logo](https://www.logosc.cn/v)
+* [正则在线测试](https://regexr.com/)

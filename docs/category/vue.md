@@ -11,3 +11,4 @@
 * [vue组件库-iview](https://github.com/iview/iview)
 * [vue组件库-element](https://github.com/ElemeFE/element)
 * [一个集成了下拉刷新、上拉加载、无限滚动加载的Vue组件](https://github.com/stackjie/vue-pull-to/blob/master/README.zh-CN.md)
+* [下拉框支持树形结构的组件-可以应用于“选择组织架构”等业务场景](https://vue-treeselect.js.org)

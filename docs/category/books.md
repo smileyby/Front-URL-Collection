@@ -3,6 +3,10 @@
 收集一些博客、早报/周刊、手册、在线书籍，供大家阅读（全当餐后甜点）
 
 * 日报、周刊、月刊
+  * [有一份前端英文周报](https://ponyfoo.com/weekly)
+  * [前端英文周报](https://javascriptweekly.com/)
+  * [台湾技术周刊](https://weekly.techbridge.cc/)
+  * [奇舞周刊](https://weekly.75team.com/)
   * [D2日报](https://daily.fairyever.com/)
   * [前端精读周刊](https://github.com/dt-fe/weekly)
   * [HelloGitHub](https://gitbook.hellogithub.com/)

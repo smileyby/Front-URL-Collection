@@ -8,3 +8,4 @@
 * [如何系统地学习nodejs](https://www.zhihu.com/question/21567720?group_id=871519504654565376)
 * [Node.js调试指南](https://github.com/nswbmw/node-in-debugging)
 * [基于nodejs的图片压缩](https://github.com/eashish93/imgsquash)
+* [《Node.js 调试指南》](https://github.com/nswbmw/node-in-debugging)

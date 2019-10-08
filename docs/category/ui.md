@@ -7,3 +7,4 @@
 * [Beautiful Art & Illustration](https://mixkit.co/art/)
 * [一个提供免费插图和艺术画的网站，图片的数量不多，但是质量较高](https://mixkit.co/art/)
 * [github小图标](https://github.com/jaywcjlove/sb)
+* [免费图库](https://taken.photos/)

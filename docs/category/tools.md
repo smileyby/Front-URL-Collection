@@ -43,3 +43,5 @@
 * [程序员开发工具聚合](https://www.toolfk.com/)
 * [在线生成logo](https://www.logosc.cn/v)
 * [正则在线测试](https://regexr.com/)
+* [在线生成随机密码](https://www.toddlerpassword.com/generate)
+* [在线屏幕录制](https://www.p2hp.com/screenrecord.html)

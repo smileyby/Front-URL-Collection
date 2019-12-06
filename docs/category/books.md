@@ -27,6 +27,7 @@
   * [xiaozhi博客](https://github.com/qq449245884/xiaozhi)
   * [Bestvist博客](https://www.bestvist.com/h)
   * [发现与推荐高质量的中文独立播客](https://typlog.com/podlist/)
+  * [寻我博客](https://seekbetter.me/)
 
 * 手册
   * [Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集](https://github.com/jaywcjlove/linux-command)

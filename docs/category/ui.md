@@ -8,3 +8,4 @@
 * [一个提供免费插图和艺术画的网站，图片的数量不多，但是质量较高](https://mixkit.co/art/)
 * [github小图标](https://github.com/jaywcjlove/sb)
 * [免费图库](https://taken.photos/)
+* [免费版权图片,一键搜索](https://www.logosc.cn/so/)

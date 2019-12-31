@@ -35,3 +35,4 @@
 * [CSS配色](https://colordrop.io/)
 * [纯CSS实现动态晴阴雨雪](https://juejin.im/post/5d2716ab5188257b775d35ba)
 * [CSS气泡背景墙](https://codepen.io/JowayYoung/pen/GRKoPdK)
+* [CSS Grid实现元素周期表布局](https://tamalweb.com/periodic-table-reactjs)

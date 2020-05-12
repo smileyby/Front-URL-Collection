@@ -27,6 +27,7 @@
 * [网页截屏工具](https://screendump.techulus.com/)
 * [一款桌面端下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://motrix.app/zh-CN/)
 * [一个静态博客写作客户端](https://gridea.dev/)
+* [在线制作PPT](https://pearmini.github.io/gossip/)
 * [免费天气小插件](http://www.tianqi.com/dingzhi/)
 * [汉典-古籍诗词在线查看](https://www.zdic.net/)
 * [专利检索](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)

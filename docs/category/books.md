@@ -7,12 +7,12 @@
   * [前端英文周报](https://javascriptweekly.com/)
   * [台湾技术周刊](https://weekly.techbridge.cc/)
   * [奇舞周刊](https://weekly.75team.com/)
-  * [D2日报](https://daily.fairyever.com/)
   * [前端精读周刊](https://github.com/dt-fe/weekly)
   * [HelloGitHub](https://gitbook.hellogithub.com/)
   * [每日时报](https://wubaiqing.github.io/zaobao/)
   * [阮一峰-技术分享周刊，每周五发布](https://github.com/ruanyf/weekly)
   * [Web动画周报-第一期](https://juejin.im/post/5d14bcc46fb9a07f0052ecdf)
+  * [政采云大前端](https://zoo.team/)
 
 * 博客
   * [言川的博客](https://github.com/lihongxun945/myblog)
